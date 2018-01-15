@@ -1,0 +1,950 @@
+City,Year,CityAddress,BuildingType,LandArea,PricePsf
+ampang,2017,"ampang, jalan cahaya 15",TERRACE FACTORY - END LOT,"6,488",432
+ampang,2015,"ampang, jalan cahaya 15",TERRACE FACTORY,"2,800",429
+ampang,2016,"ampang, jalan dagang 8a",TERRACE FACTORY - INTERMEDIATE,"1,916",679
+ampang,2015,"ampang, jalan dagang 10",TERRACE FACTORY - INTERMEDIATE,"1,916",611
+subang jaya,2017,"subang jaya, jalan usj 1/33",TERRACE FACTORY,"2,000",400
+subang jaya,2017,"subang jaya, jalan usj 1/31",TERRACE FACTORY,"2,000",975
+subang jaya,2015,"subang jaya, jalan usj 1/33",TERRACE FACTORY,"2,000",550
+subang jaya,2014,"subang jaya, jalan usj 1/33",TERRACE FACTORY - CORNER LOT,"3,087",389
+subang jaya,2013,"subang jaya, jalan usj 1/33",TERRACE FACTORY - INTERMEDIATE,"2,000",550
+subang jaya,2016,"subang jaya, ss 13/3f",DETACHED FACTORY,"12,021",83
+subang jaya,2015,"subang jaya, jalan ss13/3e",DETACHED FACTORY,"9,899",424
+subang jaya,2015,"subang jaya, jalan ss 13/3b",DETACHED FACTORY,"10,006",400
+subang jaya,2015,"subang jaya, jalan ss 13/6c",DETACHED FACTORY,"12,045",282
+subang jaya,2014,"subang jaya, jalan ss 13/6b",DETACHED FACTORY,"11,300",310
+serendah,2017,"serendah, jalan sungai choh",TERRACE FACTORY - INTERMEDIATE,"1,575","1,050"
+semenyih,2016,"semenyih, jalan 1, kawasan perindustrian hi-tech 2",SEMI-D FACTORY,"20,040",130
+semenyih,2016,"semenyih, jalan 1, kawasan perindustrian hi-tech 2",SEMI-D FACTORY,"17,044",135
+semenyih,2015,"semenyih, jalan hi-tech 5",SEMI-D FACTORY,"13,245",181
+semenyih,2014,"semenyih, jalan 1",SEMI-D FACTORY,"26,535",103
+semenyih,2013,"semenyih, jalan hi-tech 6",SEMI-D FACTORY,"14,800",137
+semenyih,2013,"semenyih, jalan 1, kawasan perindustrian hi-tech 2",SEMI-D FACTORY,"17,044",153
+semenyih,2013,"semenyih, jalan 1, kawasan perindustrian hi-tech 2",SEMI-D FACTORY,"17,047",153
+kajang,2016,"kajang, jalan perindustrian bj 2t 1/1",SEMI-D FACTORY,"15,866",233
+kajang,2015,"kajang, off jalan simpang balak",SEMI-D FACTORY,"19,440",267
+klang,2017,"klang, jalan perusahaan 27",DETACHED FACTORY,"21,257",179
+klang,2014,"klang, jalan saksama 25/39",TERRACE FACTORY - INTERMEDIATE,"2,700",407
+klang,2013,"klang, jalan unggul 25/40",TERRACE FACTORY - INTERMEDIATE,"2,700",296
+selayang,2016,"selayang, jalan su 23",TERRACE FACTORY - INTERMEDIATE,"2,164",592
+petaling jaya,2015,"petaling jaya, ss8/4",SEMI-D FACTORY,"38,309",286
+petaling jaya,2013,"petaling jaya, ss8/6",SEMI-D FACTORY,"38,226",267
+shah alam,2013,"shah alam, jalan sp 4/1",TERRACE FACTORY,"2,080",135
+shah alam,2014,"shah alam, jalan tpp 5/5",TERRACE FACTORY - INTERMEDIATE,"2,497",440
+rawang,2017,"rawang, jalan bj 6",TERRACE FACTORY - INTERMEDIATE,"2,497",120
+rawang,2016,"rawang, jalan bj 7",TERRACE FACTORY - INTERMEDIATE,"2,497",260
+rawang,2016,"rawang, jalan bj 5",TERRACE FACTORY - INTERMEDIATE,"2,196",346
+rawang,2015,"rawang, jalan bj7",TERRACE FACTORY - INTERMEDIATE,"2,497",220
+rawang,2015,"rawang, jalan bj7",TERRACE FACTORY - INTERMEDIATE,"2,497",220
+rawang,2015,"rawang, & ‰Ï¥‰Ï¥, jalan bj 2",TERRACE FACTORY - CORNER LOT,"3,057",491
+rawang,2015,"rawang, jalan bj 5",TERRACE FACTORY,"2,196",319
+rawang,2015,"rawang, jalan bj 5",TERRACE FACTORY - INTERMEDIATE,"2,196",319
+rawang,2015,"rawang, jalan bj 6",TERRACE FACTORY - INTERMEDIATE,"2,196",310
+rawang,2014,"rawang, jalan bj 7",TERRACE FACTORY - INTERMEDIATE,"2,497",260
+rawang,2016,"rawang, jalan 3",TERRACE FACTORY - INTERMEDIATE,"2,000",100
+rawang,2015,"rawang, jalan 3",TERRACE FACTORY - INTERMEDIATE,"2,000",90
+rawang,2015,"rawang, jalan 4",TERRACE FACTORY,"2,000",180
+rawang,2015,"rawang, jalan 4",TERRACE FACTORY - INTERMEDIATE,"2,002",115
+rawang,2015,"rawang, jalan",TERRACE FACTORY - INTERMEDIATE,"2,750",91
+rawang,2015,"rawang, jalan 4",TERRACE FACTORY - INTERMEDIATE,"2,000",125
+rawang,2015,"rawang, jalan 4",TERRACE FACTORY - INTERMEDIATE,"2,000",125
+rawang,2015,"rawang, jalan 5",TERRACE FACTORY - INTERMEDIATE,"2,000",150
+rawang,2014,"rawang, jalan 4",TERRACE FACTORY - INTERMEDIATE,"2,750",73
+rawang,2013,"rawang, jalan empat",TERRACE FACTORY - INTERMEDIATE,"2,000",195
+rawang,2016,"rawang, jalan industri 2/1",DETACHED FACTORY,"23,971",147
+rawang,2014,"rawang, jalan 3/6",DETACHED FACTORY,"23,272",185
+rawang,2015,"rawang, jalan perindustrian hijau 4",TERRACE FACTORY - INTERMEDIATE,"2,002",325
+rawang,2014,"rawang, jalan seri hijau 6",TERRACE FACTORY - INTERMEDIATE,"2,982",252
+rawang,2014,"rawang, jalan perindustrian hijau 4",TERRACE FACTORY - INTERMEDIATE,"1,991",251
+rawang,2013,"rawang, jalan perindustrian hijau 2",TERRACE FACTORY - INTERMEDIATE,"2,002",250
+rawang,2013,"rawang, jalan perindustrian hijau 2",TERRACE FACTORY - CORNER LOT,"2,422",268
+rawang,2013,"rawang, jalan perindustrian hijau 2",TERRACE FACTORY - INTERMEDIATE,"2,002",250
+rawang,2017,"rawang, jalan velox 2",TERRACE FACTORY - INTERMEDIATE,"2,002",275
+rawang,2017,"rawang, jalan velox 2",TERRACE FACTORY - INTERMEDIATE,"2,002",247
+rawang,2016,"rawang, jalan velox 2",TERRACE FACTORY - INTERMEDIATE,"2,002",266
+rawang,2016,"rawang, jalan velox 1 rawang",TERRACE FACTORY,"1,604",125
+rawang,2016,"rawang, jalan velox 1 rawang",TERRACE FACTORY,"1,604",156
+rawang,2016,"rawang, jalan velox 2",TERRACE FACTORY - INTERMEDIATE,"2,002",257
+rawang,2015,"rawang, jalan velox 1",TERRACE FACTORY - INTERMEDIATE,"1,604",62
+rawang,2015,"rawang, jalan velox 2",TERRACE FACTORY - INTERMEDIATE,"2,002",257
+rawang,2015,"rawang, jalan velox 1",TERRACE FACTORY,"1,604",143
+rawang,2015,"rawang, jalan velox 1",TERRACE FACTORY - INTERMEDIATE,"1,604",193
+rawang,2017,"rawang, jalan sms 3",SEMI-D FACTORY,"13,466",203
+rawang,2016,"rawang, jalan sms 2",SEMI-D FACTORY,"8,224",268
+rawang,2016,"rawang, jalan sms 2",SEMI-D FACTORY,"8,224",268
+rawang,2015,"rawang, jalan sms 3",SEMI-D FACTORY,"8,224",268
+rawang,2014,"rawang, jalan sms 3a",SEMI-D FACTORY,"8,224",268
+rawang,2014,"rawang, jalan sms 1",SEMI-D FACTORY,"8,224",280
+rawang,2013,"rawang, jalan sms 3",SEMI-D FACTORY,"8,224",259
+rawang,2013,"rawang, jalan rawang perdana",SEMI-D FACTORY,"8,224",255
+rawang,2013,"rawang, jalan sms 1",SEMI-D FACTORY,"8,224",243
+rawang,2016,"rawang, jalan perusahaan 3/1",TERRACE FACTORY - INTERMEDIATE,"2,250",187
+rawang,2015,"rawang, jalan perusahaan 3",SEMI-D FACTORY,"15,199",194
+rawang,2014,"rawang, jalan perusahaan 3/3",TERRACE FACTORY - INTERMEDIATE,"2,250",222
+rawang,2014,"rawang, jalan perusahaan 3/1",TERRACE FACTORY - INTERMEDIATE,"2,250",133
+rawang,2014,"rawang, jalan perusahaan 3/3",SEMI-D FACTORY,"15,199",204
+rawang,2013,"rawang, jalan perusahaan 3/3",SEMI-D FACTORY,"17,136",175
+rawang,2017,"rawang, jalan kri 7",DETACHED FACTORY,"42,281",142
+rawang,2017,"rawang, jalan kri 3",TERRACE FACTORY - INTERMEDIATE,"2,702",204
+rawang,2017,"rawang, jalan kri 3",TERRACE FACTORY,"2,702",241
+rawang,2016,"rawang, jalan kri 5",TERRACE FACTORY - INTERMEDIATE,"2,400",204
+rawang,2016,"rawang, jalan kri 2",TERRACE FACTORY,"2,702",198
+rawang,2016,"rawang, jalan kri 2",TERRACE FACTORY - INTERMEDIATE,"2,702",196
+rawang,2016,"rawang, industri rumah panjang apmc",TERRACE FACTORY - INTERMEDIATE,"3,261",153
+rawang,2016,"rawang, industri rumah panjang apmc",TERRACE FACTORY - INTERMEDIATE,"2,971",101
+rawang,2016,"rawang, jalan kiri 2",TERRACE FACTORY,"2,702",241
+rawang,2016,"rawang, jalan kri 2",TERRACE FACTORY - CORNER LOT,"3,165",231
+rawang,2014,"rawang, jalan pkp 3/1",SEMI-D FACTORY,"10,452",239
+rawang,2017,"rawang, jalan kpk 1/7",TERRACE FACTORY - INTERMEDIATE,"2,605",192
+rawang,2017,"rawang, jalan kpk 1/8",TERRACE FACTORY - INTERMEDIATE,"2,605",269
+rawang,2017,"rawang, jalan kpk 1/8",TERRACE FACTORY - INTERMEDIATE,"2,605",365
+rawang,2017,"rawang, jalan kpk 1/5",DETACHED FACTORY,"27,545",142
+rawang,2015,"rawang, jalan kpk 1/7",TERRACE FACTORY - INTERMEDIATE,"2,605",217
+rawang,2015,"rawang, jalan kpk 1/7",TERRACE FACTORY - END LOT,"2,605",219
+rawang,2015,"rawang, jalan kpk 1/7",TERRACE FACTORY - INTERMEDIATE,"2,605",217
+rawang,2015,"rawang, jalan kpk 3/1",SEMI-D FACTORY,"10,452",266
+rawang,2017,"rawang, saujana teknologi rawang",SEMI-D FACTORY,"20,527",226
+rawang,2016,"rawang, saujana teknologi rawang",SEMI-D FACTORY,"11,905",252
+rawang,2016,"rawang, saujana teknologi rawang",DETACHED FACTORY,"23,379",179
+semenyih,2015,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"12,152",269
+semenyih,2014,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"11,875",273
+rawang,2014,"rawang, jalan kuala garing",DETACHED FACTORY,"20,225",119
+rawang,2014,"rawang, off jalan batu arang",DETACHED FACTORY,"12,314",134
+rawang,2014,"rawang, jalan besar garing utama",SEMI-D FACTORY,"5,995",100
+rawang,2015,"rawang, jalan perusahaan 3",DETACHED FACTORY,"38,836",188
+rawang,2014,"rawang, jalan perusahaan 7",TERRACE FACTORY - INTERMEDIATE,"3,003",200
+selayang,2015,"selayang, jalan batu caves",SEMI-D FACTORY,"5,939",825
+rawang,2017,"rawang, off jalan rawang - ipoh",SEMI-D FACTORY,"12,872",200
+rawang,2016,"rawang, off jalan rawang - ipoh",SEMI-D FACTORY,"12,079",203
+rawang,2014,"rawang, off jalan rawang - ipoh",SEMI-D FACTORY,"11,670",153
+rawang,2013,"rawang, off jalan rawang - ipoh",SEMI-D FACTORY,"12,872",184
+rawang,2017,"rawang, jalan brp 9/1b",DETACHED FACTORY,"21,775",404
+rawang,2015,"rawang, jalan brp 9/1c",DETACHED FACTORY,"38,309",300
+rawang,2015,"rawang, jalan brp 9/1b",DETACHED FACTORY,"28,793",260
+rawang,2013,"rawang, jalan brp 9/1c",DETACHED FACTORY,"21,905",253
+selayang,2017,"selayang, jalan su 26",TERRACE FACTORY - END LOT,"2,164",654
+selayang,2017,"selayang, jalan su 24",TERRACE FACTORY - INTERMEDIATE,"2,164",601
+selayang,2014,"selayang, jalan su 26",TERRACE FACTORY - INTERMEDIATE,"2,164",624
+selayang,2013,"selayang, jalan su 27",TERRACE FACTORY - INTERMEDIATE,"2,164",453
+selayang,2017,"selayang, jalan 2/4",TERRACE FACTORY - INTERMEDIATE,"2,454",795
+selayang,2016,"selayang, jalan 2/5",TERRACE FACTORY - INTERMEDIATE,"2,454",530
+selayang,2016,"selayang, jalan bidara 2/5",TERRACE FACTORY - INTERMEDIATE,"2,454",469
+selayang,2016,"selayang, jalan 2/5",TERRACE FACTORY,"2,454",469
+selayang,2015,"selayang, jalan bidara 1",TERRACE FACTORY - INTERMEDIATE,"2,454",562
+selayang,2013,"selayang, jalan bidara 1",TERRACE FACTORY - INTERMEDIATE,"2,454",371
+selayang,2017,"selayang, jalan sesama",TERRACE FACTORY - INTERMEDIATE,"2,250",800
+selayang,2014,"selayang, jalan sesama",TERRACE FACTORY - INTERMEDIATE,"2,336",471
+selayang,2014,"selayang, jalan sesama",TERRACE FACTORY - INTERMEDIATE,"2,250",711
+selayang,2014,"selayang, lorong perusahaan ringan 1",TERRACE FACTORY - INTERMEDIATE,"4,534",331
+selayang,2013,"selayang, jalan sesama",TERRACE FACTORY - INTERMEDIATE,"2,250",667
+selayang,2016,"selayang, jalan indah 10a",TERRACE FACTORY - INTERMEDIATE,"1,320",553
+selayang,2016,"selayang, jalan indah 10d",TERRACE FACTORY - INTERMEDIATE,"1,496",702
+selayang,2016,"selayang, jalan indah 10b",TERRACE FACTORY - INTERMEDIATE,"2,317",539
+selayang,2015,"selayang, jalan indah 10d",TERRACE FACTORY - INTERMEDIATE,"1,496",735
+selayang,2015,"selayang, jalan indah 10e",TERRACE FACTORY - INTERMEDIATE,"1,899",442
+selayang,2015,"selayang, jalan indah 10d",TERRACE FACTORY - INTERMEDIATE,"1,899",527
+selayang,2013,"selayang, jalan indah 10b",TERRACE FACTORY - INTERMEDIATE,"1,797",779
+selayang,2013,"selayang, jalan indah 10b",TERRACE FACTORY - CORNER LOT,"3,185",879
+selayang,2017,"selayang, jalan 4",DETACHED FACTORY,"33,390",299
+selayang,2017,"selayang, & ‰Ï¥‰Ï¥‰Ï¥‰Ï¥‰Ï¥, jalan 4",DETACHED FACTORY,"10,838",240
+selayang,2017,"selayang, & ‰Ï¥‰Ï¥‰Ï¥‰Ï¥‰Ï¥, jalan 4",DETACHED FACTORY,"16,989",240
+selayang,2016,"selayang, jalan 2",DETACHED FACTORY,"40,047",287
+selayang,2016,"selayang, jalan 2",WAREHOUSE,"37,790",78
+selayang,2015,"selayang, jalan selayang baru",DETACHED FACTORY,"34,003",382
+selayang,2015,"selayang, &‰Ï¥‰Ï¥‰Ï¥‰Ï¥‰Ï¥, jalan 2",DETACHED FACTORY,"5,407","1,147"
+selayang,2013,"selayang, & ‰Ï¥‰Ï¥‰Ï¥‰Ï¥‰Ï¥, off jalan rawang - ipoh",DETACHED FACTORY,"13,509",740
+selayang,2013,"selayang, jalan besar",DETACHED FACTORY,"17,550",303
+selayang,2013,"selayang, jalan besar",DETACHED FACTORY,"23,749",303
+selayang,2017,"selayang, jalan ps 3",TERRACE FACTORY - INTERMEDIATE,"1,600",516
+selayang,2017,"selayang, jalan ps 3",TERRACE FACTORY - INTERMEDIATE,"1,600",344
+selayang,2017,"selayang, jalan ps 3",TERRACE FACTORY - INTERMEDIATE,"1,600",344
+selayang,2017,"selayang, jalan ps 3",TERRACE FACTORY - INTERMEDIATE,"1,600",344
+selayang,2016,"selayang, jalan ps 3",TERRACE FACTORY - INTERMEDIATE,"1,600",281
+selayang,2014,"selayang, jalan ps 4",TERRACE FACTORY - INTERMEDIATE,"1,600",250
+selayang,2014,"selayang, jalan ps 4",TERRACE FACTORY,"3,960",379
+selayang,2014,"selayang, jalan ps 3",TERRACE FACTORY - INTERMEDIATE,"1,600",175
+selayang,2014,"selayang, prima selayang",TERRACE FACTORY,"1,600",250
+selayang,2014,"selayang, jalan ps 3",TERRACE FACTORY,"1,600",188
+selayang,2016,"selayang, jalan perusahaan 1",SEMI-D FACTORY,"9,411",956
+selayang,2016,"selayang, jalan perusahaan amari",SEMI-D FACTORY,"18,902",661
+selayang,2016,"selayang, jalan perusahaan 1",SEMI-D FACTORY,"7,210",888
+selayang,2015,"selayang, jalan perusahaan amari",SEMI-D FACTORY,"12,751",781
+selayang,2015,"selayang, jalan perusahaan amari",SEMI-D FACTORY,"18,902",535
+selayang,2014,"selayang, jalan perusahaan 1",SEMI-D FACTORY,"7,227",899
+selayang,2014,"selayang, oo jalan perusahaan 1",SEMI-D FACTORY,"7,210",735
+selayang,2014,"selayang, jalan perusahaan amari",SEMI-D FACTORY,"6,632",619
+selayang,2014,"selayang, jalan perusahaan amari",SEMI-D FACTORY,"7,210",645
+selayang,2013,"selayang, jalan perusahaan amari",SEMI-D FACTORY,"7,210",626
+petaling jaya,2017,"petaling jaya, jalan pjs 5/26",SEMI-D FACTORY,"8,712",448
+petaling jaya,2017,"petaling jaya, jalan pjs 5/26",SEMI-D FACTORY,"8,480",419
+petaling jaya,2013,"petaling jaya, jalan pjs 5/26",SEMI-D FACTORY,"6,908",594
+petaling jaya,2016,"petaling jaya, jalan 51/205, the highway centre",MULTI-STOREY FACTORY,"2,949",102
+petaling jaya,2016,"petaling jaya, jalan 51/205, the highway centre",MULTI-STOREY FACTORY,"3,122",96
+petaling jaya,2016,"petaling jaya, jalan 51/205",MULTI-STOREY FACTORY,"1,249",216
+petaling jaya,2014,"petaling jaya, jalan 51/205 highway centre",MULTI-STOREY FACTORY,"1,938",361
+petaling jaya,2016,"petaling jaya, jalan ss 26/15",TERRACE FACTORY - INTERMEDIATE,"2,160",903
+petaling jaya,2016,"petaling jaya, jalan ss 26/15",TERRACE FACTORY - INTERMEDIATE,"2,160",851
+petaling jaya,2015,"petaling jaya, jalan ss26/13",TERRACE FACTORY - INTERMEDIATE,"2,160",370
+petaling jaya,2014,"petaling jaya, jalan ss 26/11",TERRACE FACTORY - INTERMEDIATE,"2,160",694
+petaling jaya,2014,"petaling jaya, jalan ss 26/15",TERRACE FACTORY - INTERMEDIATE,"2,160",662
+petaling jaya,2014,"petaling jaya, jalan ss 26/13",TERRACE FACTORY - CORNER LOT,"2,160",801
+petaling jaya,2013,"petaling jaya, jalan ss 26/13",TERRACE FACTORY - INTERMEDIATE,"2,160",463
+petaling jaya,2013,"petaling jaya, jalan ss 26/13",TERRACE FACTORY - INTERMEDIATE,"2,160",556
+petaling jaya,2013,"petaling jaya, jalan ss 26/13",TERRACE FACTORY - INTERMEDIATE,"2,160",556
+petaling jaya,2016,"petaling jaya, jalan pjs 1/21a",TERRACE FACTORY - INTERMEDIATE,"2,002",699
+petaling jaya,2015,"petaling jaya, jalan pjs 1/21a",TERRACE FACTORY - INTERMEDIATE,"2,000",600
+petaling jaya,2015,"petaling jaya, jalan pjs 1/21a",TERRACE FACTORY - INTERMEDIATE,"2,002",649
+petaling jaya,2015,"petaling jaya, jalan petaling utama 3 (pjs 1/28)",TERRACE FACTORY - INTERMEDIATE,"2,340",641
+petaling jaya,2015,"petaling jaya, jalan petaling utama (jalan pjs 1/28)",TERRACE FACTORY - INTERMEDIATE,"2,340",477
+petaling jaya,2014,"petaling jaya, jalan pjs 1/21a",TERRACE FACTORY - INTERMEDIATE,"2,002",450
+petaling jaya,2014,"petaling jaya, jalan pjs 1/21a",TERRACE FACTORY - INTERMEDIATE,"2,002",450
+petaling jaya,2014,"petaling jaya, jalan pjs 1/21a",TERRACE FACTORY - INTERMEDIATE,"2,002",599
+petaling jaya,2013,"petaling jaya, jalan pjs 1/30",TERRACE FACTORY - INTERMEDIATE,"2,080",481
+petaling jaya,2013,"petaling jaya, jalan petaling utama 5",TERRACE FACTORY - INTERMEDIATE,"2,080",213
+petaling jaya,2017,"petaling jaya, jalan ss 25/41",TERRACE FACTORY - INTERMEDIATE,"3,003",699
+petaling jaya,2017,"petaling jaya, jalan ss 25/28",TERRACE FACTORY - INTERMEDIATE,"2,000",650
+petaling jaya,2017,"petaling jaya, jalan ss 25/28",TERRACE FACTORY - END LOT,"2,000",700
+petaling jaya,2016,"petaling jaya, jalan ss 25/28",TERRACE FACTORY - INTERMEDIATE,"3,548",648
+petaling jaya,2016,"petaling jaya, jalan ss 25/28",TERRACE FACTORY - INTERMEDIATE,"3,550",648
+petaling jaya,2016,"petaling jaya, jalan ss25/28",TERRACE FACTORY - INTERMEDIATE,"2,000",750
+petaling jaya,2016,"petaling jaya, jalan ss 25/32",TERRACE FACTORY - INTERMEDIATE,"2,000",700
+petaling jaya,2016,"petaling jaya, jalan ss 25/28",TERRACE FACTORY,"2,000",700
+petaling jaya,2015,"petaling jaya, jalan ss 25/32",TERRACE FACTORY - INTERMEDIATE,"2,000",460
+petaling jaya,2016,"petaling jaya, jalan medan 3 @ jalanpjs 3/2",TERRACE FACTORY - INTERMEDIATE,"1,800",294
+petaling jaya,2016,"petaling jaya, jalan medan 3 @ jalanpjs 3/2",TERRACE FACTORY - INTERMEDIATE,"1,800",294
+petaling jaya,2016,"petaling jaya, jalan pjs 3/6",TERRACE FACTORY,"1,800",350
+petaling jaya,2015,"petaling jaya, jalan pjs 3/7",TERRACE FACTORY - INTERMEDIATE,"1,800",317
+petaling jaya,2015,"petaling jaya, jalan ss 25/28",TERRACE FACTORY - INTERMEDIATE,"2,000",523
+petaling jaya,2015,"petaling jaya, jalan pjs 3/6",TERRACE FACTORY,"1,800",194
+petaling jaya,2015,"petaling jaya, jalan pjs 3/7 (medan 7)",TERRACE FACTORY - INTERMEDIATE,"1,800",361
+petaling jaya,2014,"petaling jaya, jalan pjs 3/6",TERRACE FACTORY - INTERMEDIATE,"1,800",367
+petaling jaya,2014,"petaling jaya, jalan pjs 3/2",TERRACE FACTORY - INTERMEDIATE,"1,800",228
+petaling jaya,2013,"petaling jaya, jalan pjs 3/4",TERRACE FACTORY - INTERMEDIATE,"1,800",239
+petaling jaya,2013,"petaling jaya, jalan pjs 3/4",TERRACE FACTORY - INTERMEDIATE,"1,800",250
+petaling jaya,2017,"petaling jaya, jalan kemajuan, pj industraial park",MULTI-STOREY FACTORY,"1,238",283
+petaling jaya,2017,"petaling jaya, jalan kemajuan",MULTI-STOREY FACTORY,"1,259",310
+petaling jaya,2016,"petaling jaya, jalan kemajuan",MULTI-STOREY FACTORY,"1,230",260
+petaling jaya,2016,"petaling jaya, jalan kemajuan, pj inds park",MULTI-STOREY FACTORY,"1,001",565
+petaling jaya,2016,"petaling jaya, jalan kemajuan (pj industrial park)",MULTI-STOREY FACTORY,892,323
+petaling jaya,2016,"petaling jaya, jalan kemajuan, pj industrial park",MULTI-STOREY FACTORY,"1,253",235
+petaling jaya,2015,"petaling jaya, jalan kemajuan",MULTI-STOREY FACTORY,"1,074",819
+petaling jaya,2015,"petaling jaya, jalan kemajuan",MULTI-STOREY FACTORY,"1,063",282
+petaling jaya,2015,"petaling jaya, jalan kemajuan",MULTI-STOREY FACTORY,"1,068",248
+petaling jaya,2015,"petaling jaya, jalan kemajuan",MULTI-STOREY FACTORY,"1,089",321
+klang,2017,"klang, jalan sungai jeluh 32/192",SEMI-D FACTORY,"10,060",408
+klang,2016,"klang, jalan sungai jeluh 32/192",SEMI-D FACTORY,"10,764",418
+klang,2015,"klang, jalan sungai jeluh 32/192",SEMI-D FACTORY,"10,064",427
+klang,2014,"klang, jalan sungai jeluh 32/191",SEMI-D FACTORY,"10,544",439
+klang,2013,"klang, jalan sungai jeluh 32/192",SEMI-D FACTORY,"11,259",435
+klang,2013,"klang, jalan sungai jeluh 32/191",SEMI-D FACTORY,"10,549",444
+klang,2013,"klang, jalan sungai jeluh 32/191",SEMI-D FACTORY,"14,607",356
+klang,2013,"klang, jalan sungai jeluh 32/192",SEMI-D FACTORY,"14,585",343
+klang,2013,"klang, jalan sungai jeluh 32/192",SEMI-D FACTORY,"10,053",413
+klang,2016,"klang, jalan air mata duyung",SEMI-D FACTORY,"11,564",220
+klang,2015,"klang, jalan sungai jeluh 32/189",SEMI-D FACTORY,"10,592",293
+klang,2015,"klang, jalan sungai jeluh 32/189",SEMI-D FACTORY,"10,592",283
+klang,2014,"klang, jalan sungai jeluh 32/189",SEMI-D FACTORY,"10,592",274
+klang,2014,"klang, jalan sungai jeluh 32/189 (p/l 3799)",SEMI-D FACTORY,"10,592",269
+klang,2014,"klang, jalan sungai jeluh 32/189, bukit naga",SEMI-D FACTORY,"10,592",283
+klang,2014,"klang, jalan sungai jeluh 32/189, bkit naga, seksyen 32",SEMI-D FACTORY,"10,592",269
+klang,2013,"klang, jalan sungai jeluh 32/189",SEMI-D FACTORY,"10,592",269
+klang,2013,"klang, jalan sungai jerluh 32/189",SEMI-D FACTORY,"10,592",266
+klang,2013,"klang, jlaan sungai jeluh 32/189",SEMI-D FACTORY,"10,592",266
+petaling jaya,2017,"petaling jaya, jalan 51/225a zon industri pjct",SEMI-D FACTORY,"11,848",658
+petaling jaya,2017,"petaling jaya, jalan 51a/227",SEMI-D FACTORY,"15,999",342
+petaling jaya,2017,"petaling jaya, jalan 51a/225a (zon industri pjct)",SEMI-D FACTORY,"11,652",762
+petaling jaya,2016,"petaling jaya, jalan 51/203a",SEMI-D FACTORY,"13,614",606
+petaling jaya,2016,"petaling jaya, jalan 51a/225",DETACHED FACTORY,"43,208",699
+petaling jaya,2016,"petaling jaya, jalan 51/213",DETACHED FACTORY,"23,386",299
+petaling jaya,2016,"petaling jaya, lorong 51a/227c",SEMI-D FACTORY,"15,999",353
+klang,2016,"klang, jalan ikan mata duyung ks10",SEMI-D FACTORY,"21,463",200
+klang,2015,"klang, jalan ikan mata duyung",SEMI-D FACTORY,"25,930",217
+klang,2014,"klang, jalan ikan mata duyung",SEMI-D FACTORY,"31,883",173
+klang,2013,"klang, jalan ikan mata duyung",SEMI-D FACTORY,"21,463",196
+klang,2013,"klang, jalan ikan mata duyung",SEMI-D FACTORY,"21,797",194
+klang,2017,"klang, off jalan air hitam",SEMI-D FACTORY,"13,476",223
+klang,2017,"klang, jalan permata 9a/ks09",SEMI-D FACTORY,"13,003",204
+klang,2017,"klang, jalan permata 9/ks09",SEMI-D FACTORY,"14,434",269
+klang,2017,"klang, jalan pertama 9a/ks09",SEMI-D FACTORY,"19,633",199
+klang,2016,"klang, jalan permata 9a/ks9",SEMI-D FACTORY,"21,086",156
+klang,2015,"klang, jalan permata 8",TERRACE FACTORY,"1,916",78
+klang,2014,"klang, jalan pertama 9a/ks09",SEMI-D FACTORY,"19,633",169
+klang,2014,"klang, jalan permata 9a/ks9",SEMI-D FACTORY,"19,892",153
+klang,2014,"klang, jalan permata 9a/ks9",SEMI-D FACTORY,"19,892",153
+klang,2017,"klang, hj abd karim 29/ks2",DETACHED FACTORY,"15,877",290
+klang,2017,"klang, jalan hj. abdul karim 53",TERRACE FACTORY - INTERMEDIATE,"2,056",163
+klang,2016,"klang, jalan rebana 3",TERRACE FACTORY - INTERMEDIATE,"2,056",195
+klang,2016,"klang, jalan rebana 3",TERRACE FACTORY - INTERMEDIATE,"2,056",97
+klang,2016,"klang, jalan rebana 10",TERRACE FACTORY - INTERMEDIATE,"1,970",330
+klang,2015,"klang, lorong seruling 59/1",DETACHED FACTORY,"22,776",231
+klang,2015,"klang, jalan rebana 10, off jalan seruling 59",TERRACE FACTORY,"1,970",203
+klang,2015,"klang, lorong haji abdul karim 19b",TERRACE FACTORY - CORNER LOT,"2,766",235
+klang,2015,"klang, jalan rebana",TERRACE FACTORY - INTERMEDIATE,"1,970",249
+klang,2015,"klang, jalan hj abdul karim 33",TERRACE FACTORY - INTERMEDIATE,"2,056",185
+klang,2017,"klang, jalan permata 2a/ks9",SEMI-D FACTORY,"18,460",260
+klang,2017,"klang, jalan permata 2a/ks9",SEMI-D FACTORY,"18,180",264
+klang,2016,"klang, jalan permata 2",TERRACE FACTORY - INTERMEDIATE,"2,077",289
+klang,2015,"klang, jalan permata 2b/ks9",SEMI-D FACTORY,"17,760",270
+klang,2015,"klang, jalan permata 2b/ks9",SEMI-D FACTORY,"12,249",302
+klang,2015,"klang, jalan permata 8/ks09",TERRACE FACTORY - INTERMEDIATE,"1,916",78
+klang,2015,"klang, jalan permata 8/ks09",TERRACE FACTORY - INTERMEDIATE,"1,916",78
+klang,2014,"klang, jalan permata 2b/ks9",SEMI-D FACTORY,"17,760",273
+klang,2014,"klang, jalan permata 9a/ks9",SEMI-D FACTORY,"19,504",176
+klang,2013,"klang, jalan permata 2a",SEMI-D FACTORY,"18,320",248
+klang,2017,"klang, jalan seruling 58",SEMI-D FACTORY,"9,752",308
+klang,2017,"klang, jalan serunai 16",SEMI-D FACTORY,"4,645",237
+klang,2017,"klang, jalan rebena 3",TERRACE FACTORY,"2,056",388
+klang,2016,"klang, jalan serunai 1",SEMI-D FACTORY,"5,376",316
+klang,2016,"klang, jalan rebena 3",TERRACE FACTORY - INTERMEDIATE,"2,056",365
+klang,2016,"klang, jalan rebena 3",TERRACE FACTORY - INTERMEDIATE,"2,056",333
+klang,2016,"klang, jalan serunai 16",SEMI-D FACTORY,"5,000",330
+klang,2016,"klang, jalan serunai 1",SEMI-D FACTORY,"5,376",186
+klang,2015,"klang, jalan serunai 16",SEMI-D FACTORY,"4,753",274
+klang,2017,"klang, jalan perigi nanas 8/10, seksyen 12, fasa 1b",TERRACE FACTORY - INTERMEDIATE,"2,400",188
+klang,2017,"klang, jalan sungai pinang 5/6",SEMI-D FACTORY,"10,086",119
+klang,2017,"klang, jalan perigi nenas 8/10",TERRACE FACTORY,"2,400",158
+klang,2017,"klang, jalan sungai pinang 5/6",TERRACE FACTORY - CORNER LOT,"3,401",118
+klang,2017,"klang, jalan perigi nenas 8/10",TERRACE FACTORY - INTERMEDIATE,"2,400",129
+klang,2017,"klang, jalan perigi nenas 8/10",TERRACE FACTORY - CORNER LOT,"5,251",72
+klang,2017,"klang, jalan sungai pinang 5/5",TERRACE FACTORY - INTERMEDIATE,"2,002",81
+klang,2017,"klang, jalan sungai pinang 5/5",TERRACE FACTORY - INTERMEDIATE,"2,002",81
+klang,2017,"klang, jalan sungai pinang 5/5",TERRACE FACTORY - INTERMEDIATE,"2,002",81
+klang,2017,"klang, jalan sungai pinang 5/5",TERRACE FACTORY - INTERMEDIATE,"2,002",81
+klang,2017,"klang, jalan sungai chandong 19",TERRACE FACTORY - INTERMEDIATE,"2,002",100
+klang,2017,"klang, lorong sungai chongdong",TERRACE FACTORY - INTERMEDIATE,"2,002",10
+klang,2016,"klang, jalan sungai chandong 18",TERRACE FACTORY - INTERMEDIATE,"2,002",72
+klang,2016,"klang, jalan sungai chandong 18",TERRACE FACTORY - INTERMEDIATE,"2,002",72
+klang,2016,"klang, jalan sungai chandong 19",TERRACE FACTORY - INTERMEDIATE,"2,002",72
+klang,2016,"klang, jalan sungai chandong 18",TERRACE FACTORY - INTERMEDIATE,"2,002",72
+klang,2016,"klang, jalan sungai chandong 16",TERRACE FACTORY - INTERMEDIATE,"2,002",65
+klang,2016,"klang, jalan sungai chandong 19",TERRACE FACTORY - INTERMEDIATE,"2,002",75
+klang,2015,"klang, jalan sungai chandong 11d",TERRACE FACTORY - CORNER LOT,"2,842",106
+klang,2015,"klang, jalan sungai chandong 18e",TERRACE FACTORY - INTERMEDIATE,"2,002",122
+klang,2014,"klang, jalan sungai jeluh 32/191",DETACHED FACTORY,"14,660",336
+klang,2014,"klang, jalan sungai jeluh 32/192",SEMI-D FACTORY,"15,231",289
+klang,2016,"klang, jalan sungai kayu ara 32/31",SEMI-D FACTORY,"18,266",334
+klang,2016,"klang, jalan spring 34/31, seksyen 34",SEMI-D FACTORY,"19,300",242
+klang,2015,"klang, jalan spring 34/31, seksyen 34",SEMI-D FACTORY,"19,300",227
+klang,2014,"klang, jalan spring 34/31",SEMI-D FACTORY,"19,300",176
+klang,2017,"klang, jalan teluk batu 9, batu 4 1/2",TERRACE FACTORY,"1,604",274
+klang,2016,"klang, jalan telok batu 2",TERRACE FACTORY,"1,873",203
+klang,2014,"klang, jalan teluk batu 1",TERRACE FACTORY - INTERMEDIATE,"1,873",374
+klang,2013,"klang, jalan teluk batu 1",TERRACE FACTORY - INTERMEDIATE,"1,873",318
+klang,2016,"klang, jalan 34/1a seksyen 34",DETACHED FACTORY,"10,203",88
+klang,2014,"klang, jalan injap 32/4",TERRACE FACTORY - END LOT,"2,400",729
+klang,2013,"klang, jlaan 34/4",TERRACE FACTORY - INTERMEDIATE,"2,400",256
+klang,2017,"klang, jalan gitar 33/3",TERRACE FACTORY,"2,125",847
+klang,2015,"klang, & ‰Ï¥‰Ï¥-‰Ï¥, jalan gitar 33/3",TERRACE FACTORY,"2,000",925
+klang,2014,"klang, jalan gitar 33/3",TERRACE FACTORY - INTERMEDIATE,"2,000","1,000"
+klang,2014,"klang, jalan gitar 33/3",TERRACE FACTORY - INTERMEDIATE,"2,000",925
+klang,2013,"klang, jalan gitar 33/3, seksyen 33, shah alam",TERRACE FACTORY - INTERMEDIATE,"2,000",875
+klang,2013,"klang, jalan gitar 33/3",TERRACE FACTORY - INTERMEDIATE,"2,000",900
+klang,2015,"klang, jalan laksamana 1/ks7",SEMI-D FACTORY,"16,393",436
+klang,2013,"klang, jalan laksamana 1/ks7",SEMI-D FACTORY,"16,393",342
+klang,2017,"klang, jalan 36/41",SEMI-D FACTORY,"16,340",233
+klang,2015,"klang, jalan 36/41",SEMI-D FACTORY,"16,340",203
+klang,2014,"klang, jalan 36/41, seksyen 36, shah alam",SEMI-D FACTORY,"16,415",210
+klang,2014,"klang, jalan 36/41",SEMI-D FACTORY,"16,393",230
+klang,2014,"klang, jalan 36/41",SEMI-D FACTORY,"16,340",174
+klang,2013,"klang, jalan 36/41",SEMI-D FACTORY,"16,318",205
+klang,2013,"klang, jalan 36/41",SEMI-D FACTORY,"16,264",221
+klang,2016,"klang, lorong segambut 2",TERRACE FACTORY - CORNER LOT,"3,960",316
+klang,2015,"klang, lorong seri gambut 1",SEMI-D FACTORY,"7,800",295
+klang,2017,"klang, lorong zainal abidin 13",SEMI-D FACTORY,"18,912",201
+klang,2014,"klang, lorong zainal abidin 13",SEMI-D FACTORY,"18,912",129
+petaling jaya,2015,"petaling jaya, jalan ss 25/28",TERRACE FACTORY - INTERMEDIATE,"2,000",760
+semenyih,2017,"semenyih, jalan 6/2 seksyen 6",TERRACE FACTORY - INTERMEDIATE,"2,002",264
+semenyih,2016,"semenyih, jalan 6/11",SEMI-D FACTORY,"16,240",216
+semenyih,2016,"semenyih, jalan 6/2a",SEMI-D FACTORY,"10,902",216
+semenyih,2016,"semenyih, jalan 6/3, seksyen 6",TERRACE FACTORY - CORNER LOT,"3,305",175
+semenyih,2015,"semenyih, jalan 6/2a, seksyen 6, bandar rinching",TERRACE FACTORY - INTERMEDIATE,"2,002",210
+semenyih,2014,"semenyih, jalan 6/4, seksyen 6, bandar rinching",TERRACE FACTORY - INTERMEDIATE,"2,002",200
+petaling jaya,2016,"petaling jaya, jalan jenjarom",DETACHED FACTORY,"21,829",183
+semenyih,2017,"semenyih, jalan 1",SEMI-D FACTORY,"18,964",124
+semenyih,2017,"semenyih, jalan 7",SEMI-D FACTORY,"11,255",169
+semenyih,2016,"semenyih, jalan hi-tech 5",SEMI-D FACTORY,"14,882",158
+semenyih,2016,"semenyih, jalan 5",SEMI-D FACTORY,"16,493",164
+semenyih,2015,"semenyih, jalan 3",SEMI-D FACTORY,"13,657",168
+semenyih,2015,"semenyih, jalan 5",SEMI-D FACTORY,"12,600",159
+semenyih,2014,"semenyih, jalan 1",SEMI-D FACTORY,"24,872",113
+semenyih,2017,"semenyih, jalan mega b",DETACHED FACTORY,"34,746",158
+semenyih,2017,"semenyih, /‰Ï¥‰Ï¥, persiaran mega a",TERRACE FACTORY - INTERMEDIATE,"2,002",344
+semenyih,2017,"semenyih, /‰Ï¥‰Ï¥, persiaran mega a",TERRACE FACTORY - CORNER LOT,"4,467",276
+semenyih,2016,"semenyih, jalan mega 1a",SEMI-D FACTORY,"8,105",247
+semenyih,2016,"semenyih, /‰Ï¥‰Ï¥, jalan persiaran mega a",TERRACE FACTORY - INTERMEDIATE,"2,002",325
+semenyih,2015,"semenyih, jalan mega 1a",SEMI-D FACTORY,"8,417",285
+semenyih,2015,"semenyih, /‰Ï¥‰Ï¥, jalan persiaran mega a",TERRACE FACTORY - INTERMEDIATE,"2,002",325
+semenyih,2015,"semenyih, mega 22",SEMI-D FACTORY,"9,741",293
+semenyih,2015,"semenyih, jalan mega 2a",TERRACE FACTORY - INTERMEDIATE,"2,002",280
+semenyih,2015,"semenyih, & ‰Ï¥‰Ï¥‰Ï¥, jalan mega 2a",TERRACE FACTORY - INTERMEDIATE,"2,002",340
+semenyih,2017,"semenyih, jalan semtec park 3",SEMI-D FACTORY,"14,800",169
+semenyih,2017,"semenyih, jalan semtec 5",SEMI-D FACTORY,"11,550",182
+semenyih,2017,"semenyih, jalan semtec 3",SEMI-D FACTORY,"14,800",176
+semenyih,2015,"semenyih, jalan semtec 4",SEMI-D FACTORY,"11,550",190
+semenyih,2015,"semenyih, jalan semtec park 4",SEMI-D FACTORY,"11,550",208
+semenyih,2015,"semenyih, jalan semtec 4",SEMI-D FACTORY,"11,550",190
+semenyih,2015,"semenyih, jalan semtec 3",SEMI-D FACTORY,"18,922",148
+semenyih,2013,"semenyih, jalan semtec park 4",SEMI-D FACTORY,"11,550",147
+semenyih,2013,"semenyih, jalan semtec park 4",SEMI-D FACTORY,"11,550",173
+semenyih,2013,"semenyih, jalan semtec park",SEMI-D FACTORY,"14,800",155
+semenyih,2017,"semenyih, jalan sri haneco 1/10",TERRACE FACTORY - INTERMEDIATE,"1,604",249
+semenyih,2017,"semenyih, jalan sri haneco 1/12",TERRACE FACTORY - INTERMEDIATE,"1,604",175
+semenyih,2016,"semenyih, jalan sri haneco 1/4",TERRACE FACTORY - INTERMEDIATE,"1,604",281
+semenyih,2016,"semenyih, jalan sri haneco 1/8",TERRACE FACTORY - INTERMEDIATE,"1,604",137
+semenyih,2016,"semenyih, sri haneco 1/4",TERRACE FACTORY - END LOT,"1,604",256
+semenyih,2016,"semenyih, jalan sri haneco 1/6",TERRACE FACTORY - INTERMEDIATE,"2,002",245
+semenyih,2015,"semenyih, jalan sri haneco 1/14",TERRACE FACTORY - INTERMEDIATE,"1,604",234
+semenyih,2015,"semenyih, jalan sri haneco 1/4",TERRACE FACTORY - INTERMEDIATE,"2,002",250
+semenyih,2015,"semenyih, jalan sri haneco 1/10",TERRACE FACTORY - INTERMEDIATE,"1,604",212
+semenyih,2015,"semenyih, jalan sri haneco 1/6",TERRACE FACTORY - INTERMEDIATE,"2,002",200
+semenyih,2017,"semenyih, jalan besi 1/2",SEMI-D FACTORY,"8,962",211
+semenyih,2015,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"16,100",176
+semenyih,2015,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"10,125",225
+semenyih,2014,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"9,871",213
+semenyih,2014,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"9,475",211
+semenyih,2014,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"10,125",213
+semenyih,2014,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"9,607",213
+semenyih,2014,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"8,844",215
+semenyih,2014,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"10,125",213
+semenyih,2014,"semenyih, off jalan bangi lama",SEMI-D FACTORY,"9,343",213
+semenyih,2017,"semenyih, belakang semenyih permata",SEMI-D FACTORY,"11,590",149
+semenyih,2016,"semenyih, jalan hi tech 6/1",SEMI-D FACTORY,"16,277",138
+semenyih,2015,"semenyih, belakang semenyih permata",SEMI-D FACTORY,"11,040",170
+semenyih,2015,"semenyih, belakang semenyih permata",SEMI-D FACTORY,"14,338",181
+semenyih,2014,"semenyih, belakang semenyih permata",SEMI-D FACTORY,"11,776",178
+semenyih,2014,"semenyih, jalan hi-tech 5",SEMI-D FACTORY,"14,800",203
+semenyih,2014,"semenyih, belakang semenyih permata",SEMI-D FACTORY,"14,365",159
+semenyih,2014,"semenyih, belakang semenyih permata",SEMI-D FACTORY,"19,010",130
+semenyih,2014,"semenyih, jalan hi-tech 5",SEMI-D FACTORY,"19,558",146
+semenyih,2014,"semenyih, belakang semenyih permata",SEMI-D FACTORY,"12,350",173
+semenyih,2016,"semenyih, kb c, jalan hi-tech 3/1",SEMI-D FACTORY,"18,784",117
+semenyih,2015,"semenyih, kb a, jalan hi-tech 3/2",SEMI-D FACTORY,"12,025",191
+semenyih,2014,"semenyih, jalan hi-tech 3/4",SEMI-D FACTORY,"21,935",114
+semenyih,2014,"semenyih, jalan hi-tech 3/4",SEMI-D FACTORY,"13,875",223
+semenyih,2014,"semenyih, jalan hi-tech 3/3",SEMI-D FACTORY,"19,458",134
+semenyih,2014,"semenyih, jalan hi-tech 3/1",SEMI-D FACTORY,"19,782",111
+semenyih,2014,"semenyih, jalan hi-tech 3/3",SEMI-D FACTORY,"10,725",177
+semenyih,2013,"semenyih, jalan hi-tech 3/4",SEMI-D FACTORY,"17,550",178
+semenyih,2017,"semenyih, jalan villaraya 1/3a",TERRACE FACTORY - INTERMEDIATE,"2,400",162
+semenyih,2017,"semenyih, jalan villaraya 1/6",TERRACE FACTORY - END LOT,"2,702",185
+semenyih,2017,"semenyih, jalan 1/2",TERRACE FACTORY - INTERMEDIATE,"2,400",200
+semenyih,2017,"semenyih, jalan villaraya 1/2",TERRACE FACTORY - CORNER LOT,"4,080",172
+semenyih,2017,"semenyih, jalan villaraya 1/3",TERRACE FACTORY - INTERMEDIATE,"2,400",192
+semenyih,2017,"semenyih, jalan 1/3a",TERRACE FACTORY - END LOT,"2,400",200
+semenyih,2017,"semenyih, jalan villaraya 2/1",SEMI-D FACTORY,"8,999",122
+semenyih,2017,"semenyih, jalan villaraya 2/1",SEMI-D FACTORY,"12,002",121
+semenyih,2017,"semenyih, jalan villaraya 1/7",TERRACE FACTORY - END LOT,"2,702",174
+petaling jaya,2014,"petaling jaya, jalan mj/4",TERRACE FACTORY,"2,400",375
+petaling jaya,2014,"petaling jaya, jalan mj/3 medan maju jaya",TERRACE FACTORY,"3,200",146
+kajang,2013,"kajang, metroworld taming industrial park",DETACHED FACTORY,"29,633",208
+kajang,2016,"kajang, jalan perindustrian sungai balak 1/1",SEMI-D FACTORY,"13,541",282
+kajang,2016,"kajang, jalan jenaris 2c",TERRACE FACTORY,"3,300",273
+shah alam,2017,"shah alam, jalan jemuju satu 16/13a",TERRACE FACTORY - INTERMEDIATE,"3,900",277
+shah alam,2016,"shah alam, jalan jemuju satu 16/13a",TERRACE FACTORY - INTERMEDIATE,"3,900",264
+shah alam,2016,"shah alam, jalan tukang 16/4 shah alam",WAREHOUSE,"31,099",222
+shah alam,2015,"shah alam, jalan jemuju satu 16/13a",TERRACE FACTORY - INTERMEDIATE,"3,900",256
+shah alam,2015,"shah alam, jalan 16/13c",TERRACE FACTORY - INTERMEDIATE,"2,400",208
+shah alam,2014,"shah alam, 16/11",SEMI-D FACTORY,"20,939",275
+shah alam,2017,"shah alam, jalan nilam 1/1",TERRACE FACTORY - INTERMEDIATE,"2,002",524
+shah alam,2017,"shah alam, jalan nilam 1/1",TERRACE FACTORY - INTERMEDIATE,"2,002",524
+shah alam,2017,"shah alam, jalan nilam 1/1",TERRACE FACTORY - INTERMEDIATE,"2,002",564
+shah alam,2016,"shah alam, jalan nilam 1/8",TERRACE FACTORY - INTERMEDIATE,"1,604",405
+shah alam,2016,"shah alam, jalan nilam 2",SEMI-D FACTORY,"9,709",427
+shah alam,2016,"shah alam, jalan nilam 1/3",TERRACE FACTORY - INTERMEDIATE,"2,002",574
+shah alam,2016,"shah alam, jalan nilam 1/2",TERRACE FACTORY - INTERMEDIATE,"2,002",549
+shah alam,2017,"shah alam, jalan sungai buloh 27/101a (hicom 27)",SEMI-D FACTORY,"11,550",429
+shah alam,2017,"shah alam, jalan pendamar 27/90",TERRACE FACTORY,"4,680",342
+shah alam,2017,"shah alam, jalan pendamar 27/90",TERRACE FACTORY,"4,680",342
+shah alam,2017,"shah alam, jalan sungai buloh 27/101a (hicom 27)",SEMI-D FACTORY,"12,723",480
+shah alam,2016,"shah alam, jalan sungai buloh 27/101a (hicom 27)",SEMI-D FACTORY,"12,723",480
+shah alam,2016,"shah alam, jalan sungai buloh 27/101a (hicom 27)",SEMI-D FACTORY,"12,723",480
+shah alam,2016,"shah alam, jalan sungai buloh 27/101a (hicom 27)",SEMI-D FACTORY,"12,723",393
+shah alam,2015,"shah alam, jalan 27/90",TERRACE FACTORY - INTERMEDIATE,"4,680",284
+shah alam,2015,"shah alam, jalan 27/90",TERRACE FACTORY - INTERMEDIATE,"9,430",276
+shah alam,2015,"shah alam, jalan sungai buloh 27/101a (hicom 27)",SEMI-D FACTORY,"11,550",476
+shah alam,2017,"shah alam, jalan angklong 33/20",SEMI-D FACTORY,"25,446",236
+shah alam,2016,"shah alam, jalan tambur 33/19",TERRACE FACTORY - INTERMEDIATE,"1,119",849
+shah alam,2016,"shah alam, salung 33/26",TERRACE FACTORY - INTERMEDIATE,"2,002",450
+shah alam,2016,"shah alam, jalan tamborin 33/23",TERRACE FACTORY - END LOT,"2,002",445
+shah alam,2016,"shah alam, jalan tabla 33/21",TERRACE FACTORY - CORNER LOT,"5,220",375
+shah alam,2016,"shah alam, jalan angklung 33/20",TERRACE FACTORY - INTERMEDIATE,"2,002",460
+shah alam,2016,"shah alam, jalan angklung 33/20",TERRACE FACTORY - END LOT,"2,002",450
+shah alam,2016,"shah alam, jalan tambur 33/19",SEMI-D FACTORY,"8,816",312
+shah alam,2016,"shah alam, jalan 34/5",TERRACE FACTORY - INTERMEDIATE,"2,002",350
+shah alam,2016,"shah alam, jalan tabla 33/21",TERRACE FACTORY - INTERMEDIATE,"2,002",412
+shah alam,2017,"shah alam, jalan teluk batu 2",TERRACE FACTORY - INTERMEDIATE,"1,798",367
+shah alam,2017,"shah alam, lorong telok batu 7",TERRACE FACTORY,"1,600",281
+shah alam,2017,"shah alam, /‰Ï¥‰Ï¥, jalan teluk batu 2",TERRACE FACTORY - INTERMEDIATE,420,"1,190"
+shah alam,2017,"shah alam, jalan telok batu 7",TERRACE FACTORY - CORNER LOT,"3,746",288
+shah alam,2017,"shah alam, jalan telok batu 2",TERRACE FACTORY,"1,873",358
+shah alam,2016,"shah alam, jalan teluk batu 9",TERRACE FACTORY - INTERMEDIATE,"1,604",137
+shah alam,2016,"shah alam, jalan teluk batu 2",TERRACE FACTORY - INTERMEDIATE,"1,798",250
+shah alam,2016,"shah alam, lorong telok batu 6a",TERRACE FACTORY - INTERMEDIATE,"2,000",190
+shah alam,2016,"shah alam, lorong telok batu 3",TERRACE FACTORY - INTERMEDIATE,"2,002",350
+shah alam,2015,"shah alam, jalan teluk batu 4",TERRACE FACTORY - INTERMEDIATE,"1,916",313
+shah alam,2017,"shah alam, jalan industri 2",TERRACE FACTORY - INTERMEDIATE,"2,002",315
+shah alam,2017,"shah alam, jalan omboh dua 34/1b",SEMI-D FACTORY,"15,274",98
+shah alam,2017,"shah alam, jalan omboh dua 34/1",SEMI-D FACTORY,"13,492",111
+shah alam,2017,"shah alam, jalan omboh dua 34/1b",SEMI-D FACTORY,"13,156",114
+shah alam,2016,"shah alam, jalan hon 34/10",TERRACE FACTORY - INTERMEDIATE,"2,002",350
+shah alam,2016,"shah alam, jalan industri 1",TERRACE FACTORY,"2,002",150
+shah alam,2016,"shah alam, jalan omboh dua 34/1b",SEMI-D FACTORY,"10,216",117
+shah alam,2016,"shah alam, jalan tayar 34/12",TERRACE FACTORY - INTERMEDIATE,"1,798",89
+shah alam,2016,"shah alam, jalan sungai jerluh 32/196",SEMI-D FACTORY,"16,084",361
+shah alam,2016,"shah alam, jalan tayar 34/12",TERRACE FACTORY - INTERMEDIATE,"1,798",195
+shah alam,2017,"shah alam, jalan serendah 26/41",SEMI-D FACTORY,"10,075",516
+shah alam,2017,"shah alam, jalan serendah 26/40",SEMI-D FACTORY,"8,820",420
+shah alam,2017,"shah alam, jalan serendah 26/39",SEMI-D FACTORY,"13,060",337
+shah alam,2017,"shah alam, jalan serendah 26/41",SEMI-D FACTORY,"10,075",597
+shah alam,2017,"shah alam, jalan 26/39",SEMI-D FACTORY,"7,922",446
+shah alam,2017,"shah alam, jalan serendah 26/39",SEMI-D FACTORY,"7,920",398
+shah alam,2017,"shah alam, jalan 26/4",TERRACE FACTORY - INTERMEDIATE,"3,900",413
+shah alam,2017,"shah alam, jalan 26/8",SEMI-D FACTORY,"6,000",333
+shah alam,2017,"shah alam, jalan bagan nira 26/8",SEMI-D FACTORY,"6,000",333
+shah alam,2017,"shah alam, jalan bulan u5/171",TERRACE FACTORY - INTERMEDIATE,"2,250",511
+shah alam,2017,"shah alam, jalan bulan u5/172",TERRACE FACTORY - INTERMEDIATE,"2,250",289
+shah alam,2017,"shah alam, jalan bulan u5/171",TERRACE FACTORY - INTERMEDIATE,"2,790",412
+shah alam,2016,"shah alam, jalan bulan u5/170",TERRACE FACTORY - INTERMEDIATE,"2,790",421
+shah alam,2016,"shah alam, jalan bulan u5/172",TERRACE FACTORY - INTERMEDIATE,"1,600",281
+shah alam,2016,"shah alam, jalan bulan u5/171",TERRACE FACTORY - END LOT,"3,600",444
+shah alam,2016,"shah alam, jalan bulan u5/168",TERRACE FACTORY - INTERMEDIATE,"2,250",413
+shah alam,2016,"shah alam, jalan u5/172",TERRACE FACTORY - CORNER LOT,"4,136",150
+shah alam,2016,"shah alam, jalan bulan u5/172",TERRACE FACTORY - INTERMEDIATE,"2,250",393
+shah alam,2016,"shah alam, jalan bulan u5/171",TERRACE FACTORY - INTERMEDIATE,"2,250",422
+shah alam,2017,"shah alam, jalan anggerik mokara 31/53",SEMI-D FACTORY,"17,028",249
+shah alam,2017,"shah alam, jalan anggerik mokara 31/63",SEMI-D FACTORY,"10,204",382
+shah alam,2017,"shah alam, jalan sungai jeluh 32/201",TERRACE FACTORY - INTERMEDIATE,"2,108",901
+shah alam,2016,"shah alam, jalan sungai jeluh 32/201",TERRACE FACTORY - INTERMEDIATE,"2,108",769
+shah alam,2016,"shah alam, jalan anggerik mokara 31/61",SEMI-D FACTORY,"10,495",381
+shah alam,2016,"shah alam, jalan anggerik mokara 31/63",TERRACE FACTORY,"3,251",231
+shah alam,2016,"shah alam, jalan sungai jeluh 32/201",TERRACE FACTORY - INTERMEDIATE,"2,108",830
+shah alam,2017,"shah alam, jalan astaka u8/88a",SEMI-D FACTORY,"8,883",400
+shah alam,2017,"shah alam, jalan astaka u8/83",SEMI-D FACTORY,"23,842",336
+shah alam,2017,"shah alam, jalan astaka u8/88a",SEMI-D FACTORY,"8,883",349
+shah alam,2017,"shah alam, jalan astaka u8/84a",SEMI-D FACTORY,"7,920",511
+shah alam,2017,"shah alam, jalan astaka u8/83",SEMI-D FACTORY,"23,842",357
+shah alam,2016,"shah alam, jalan astaka u8/84",SEMI-D FACTORY,"16,953",383
+shah alam,2016,"shah alam, jalan astaka u8/84",SEMI-D FACTORY,"16,953",389
+shah alam,2016,"shah alam, jalan astaka u8/88a",SEMI-D FACTORY,"8,974",446
+shah alam,2016,"shah alam, jalan astaka u8/88b",SEMI-D FACTORY,"8,768",464
+shah alam,2016,"shah alam, jalan astaka u8/88b",SEMI-D FACTORY,"6,903",550
+serendah,2014,"serendah, jalan indah 3",TERRACE FACTORY - INTERMEDIATE,"2,400",67
+serendah,2017,"serendah, jalan mohd taib",DETACHED FACTORY,"43,529",132
+serendah,2017,"serendah, jalan mohd taib",DETACHED FACTORY,"43,486",132
+serendah,2017,"serendah, jalan seri pagi 2",TERRACE FACTORY - INTERMEDIATE,"2,277",92
+serendah,2017,"serendah, jalan seri pagi 2",TERRACE FACTORY,"2,000",85
+serendah,2017,"serendah, jalan seri pagi 4",TERRACE FACTORY - INTERMEDIATE,"2,000",80
+serendah,2016,"serendah, jalan seri pagi 4a",TERRACE FACTORY - INTERMEDIATE,"2,002",85
+serendah,2016,"serendah, pust perdagangan sri pagi",TERRACE FACTORY,"2,002",80
+serendah,2016,"serendah, jalan seri pagi 4a",TERRACE FACTORY - INTERMEDIATE,"2,000",89
+serendah,2015,"serendah, jalan seri pagi 3",TERRACE FACTORY - INTERMEDIATE,"2,002",84
+serendah,2015,"serendah, jalan seri pagi 3",TERRACE FACTORY - INTERMEDIATE,"2,002",72
+serendah,2015,"serendah, jalan seri pagi 2",TERRACE FACTORY,43,"4,535"
+serendah,2014,"serendah, jalan seri pagi 3",TERRACE FACTORY,"1,950",51
+serendah,2017,"serendah, jalan cempaka 3a/1",TERRACE FACTORY - INTERMEDIATE,"2,002",105
+serendah,2017,"serendah, jalan cempaka 4",TERRACE FACTORY - INTERMEDIATE,"2,002",200
+serendah,2017,"serendah, jalan cempaka 3",TERRACE FACTORY - INTERMEDIATE,"2,002",190
+serendah,2016,"serendah, jalan cempaka 1a",TERRACE FACTORY - INTERMEDIATE,"2,002",225
+serendah,2016,"serendah, jalan cempaka 1a",TERRACE FACTORY - INTERMEDIATE,"2,002",212
+serendah,2016,"serendah, jalan cempaka 1a",TERRACE FACTORY - INTERMEDIATE,"2,002",212
+serendah,2016,"serendah, jalan cempaka 3a",TERRACE FACTORY - INTERMEDIATE,"2,002",50
+serendah,2016,"serendah, jalan cempaka 3a",TERRACE FACTORY - INTERMEDIATE,"2,002",50
+serendah,2016,"serendah, jalan cempaka 3",TERRACE FACTORY - CORNER LOT,"4,844",134
+serendah,2016,"serendah, jalan cempaka 3",TERRACE FACTORY - INTERMEDIATE,"2,002",225
+serendah,2017,"serendah, jalan kesidang 1",SEMI-D FACTORY,"15,995",172
+serendah,2017,"serendah, jalan kesidang 2",SEMI-D FACTORY,"16,146",170
+serendah,2016,"serendah, no.37, jalan kesidang 1",SEMI-D FACTORY,"18,805",223
+serendah,2016,"serendah, unit k95, jalan kesidang 2",SEMI-D FACTORY,"20,236",189
+serendah,2016,"serendah, jalan kesidang 2",SEMI-D FACTORY,"19,698",177
+serendah,2016,"serendah, jalan kesidang 1",SEMI-D FACTORY,"16,932",177
+serendah,2016,"serendah, unit k15, jalan kesidang 1",SEMI-D FACTORY,"15,995",186
+serendah,2016,"serendah, jalan kesidang 1",SEMI-D FACTORY,"16,932",174
+serendah,2015,"serendah, jalan kesidang 2",SEMI-D FACTORY,"15,995",175
+serendah,2015,"serendah, jalan kesidang 2",SEMI-D FACTORY,"24,542",196
+serendah,2017,"serendah, jalan kemunting 3d",TERRACE FACTORY - INTERMEDIATE,"1,989",26
+serendah,2017,"serendah, jalan seri pagi 3a",SEMI-D FACTORY,"5,175",79
+serendah,2017,"serendah, jalan kamunting 3",TERRACE FACTORY - INTERMEDIATE,"2,000",50
+serendah,2017,"serendah, jalan seroja 4d",TERRACE FACTORY - INTERMEDIATE,"2,013",104
+serendah,2017,"serendah, jalan seroja 4d",TERRACE FACTORY - INTERMEDIATE,"2,013",104
+serendah,2017,"serendah, jalan telipot 2d/2",TERRACE FACTORY - INTERMEDIATE,"2,002",49
+serendah,2017,"serendah, jalan kamunting 1c",TERRACE FACTORY - INTERMEDIATE,"1,600",47
+serendah,2017,"serendah, jalan bunga raya 6a/3",TERRACE FACTORY - INTERMEDIATE,"2,000",29
+serendah,2017,"serendah, jalan seroja 6d",TERRACE FACTORY - INTERMEDIATE,"2,007",75
+serendah,2017,"serendah, jalan seri pagi 3b",SEMI-D FACTORY,"5,175",31
+subang jaya,2017,"subang jaya, /‰Ï¥ ‰Ï¥‰Ï¥ (‰Ï¥‰Ï¥‰Ï¥), jalan subang 3",TERRACE FACTORY - INTERMEDIATE,"1,539",598
+subang jaya,2016,"subang jaya, /‰Ï¥ ‰Ï¥‰Ï¥ (‰Ï¥‰Ï¥‰Ï¥), jalan subang 3",TERRACE FACTORY - INTERMEDIATE,"1,539",617
+subang jaya,2015,"subang jaya, blok d, lot 757, jalan subang 3",TERRACE FACTORY - INTERMEDIATE,"2,067",373
+subang jaya,2015,"subang jaya, /‰Ï¥/‰Ï¥‰Ï¥), jalan subang 3",TERRACE FACTORY - INTERMEDIATE,"1,851",270
+subang jaya,2015,"subang jaya, jalan subang 3",TERRACE FACTORY - INTERMEDIATE,"2,640",227
+subang jaya,2015,"subang jaya, /‰Ï¥/‰Ï¥‰Ï¥), jalan subang 3",TERRACE FACTORY - INTERMEDIATE,"2,640",303
+subang jaya,2015,"subang jaya, /‰Ï¥/‰Ï¥‰Ï¥), jalan subang 3",TERRACE FACTORY - INTERMEDIATE,"2,640",303
+subang jaya,2015,"subang jaya, /‰Ï¥/‰Ï¥‰Ï¥, jalan subang 3",TERRACE FACTORY - INTERMEDIATE,"1,539",630
+subang jaya,2014,"subang jaya, jalan subang 3",MULTI-STOREY FACTORY,624,"1,343"
+subang jaya,2013,"subang jaya, /‰Ï¥/‰Ï¥‰Ï¥, jalan subang 3",TERRACE FACTORY - INTERMEDIATE,"1,539",351
+serendah,2017,"serendah, jalan kantan 2g",TERRACE FACTORY - END LOT,"2,002",125
+serendah,2017,"serendah, jalan kantan 2h",TERRACE FACTORY - INTERMEDIATE,"2,002",110
+serendah,2017,"serendah, jalan kantan 2h",TERRACE FACTORY - INTERMEDIATE,"2,002",119
+serendah,2017,"serendah, jalan kantan 2i",TERRACE FACTORY - END LOT,"2,002",130
+serendah,2017,"serendah, jalan kantan 2h",TERRACE FACTORY - INTERMEDIATE,"2,002",35
+serendah,2017,"serendah, jalan jejarum 3c",TERRACE FACTORY - INTERMEDIATE,"2,002",75
+serendah,2017,"serendah, jalan jejarum 2",TERRACE FACTORY,"1,604",69
+serendah,2017,"serendah, jalan melati",DETACHED FACTORY,"35,080",153
+serendah,2017,"serendah, jalan jenjarum 4a",TERRACE FACTORY - INTERMEDIATE,"2,002",113
+serendah,2017,"serendah, jalan jejarum 1b",TERRACE FACTORY - INTERMEDIATE,"2,002",72
+subang jaya,2017,"subang jaya, jalan tpj 9",TERRACE FACTORY,"2,000",458
+subang jaya,2016,"subang jaya, jalan pju 1a/18 (jalan tpj 9)",TERRACE FACTORY - INTERMEDIATE,"2,000",423
+subang jaya,2016,"subang jaya, jalan pju 1a/8",TERRACE FACTORY - INTERMEDIATE,"2,875",296
+subang jaya,2016,"subang jaya, jalan tpj 6",TERRACE FACTORY - INTERMEDIATE,"2,000",475
+subang jaya,2015,"subang jaya, jalan pju 1a/15 (tpj 8)",TERRACE FACTORY - INTERMEDIATE,"2,875",348
+subang jaya,2015,"subang jaya, jalan tpj 9",TERRACE FACTORY - INTERMEDIATE,"2,000",458
+subang jaya,2015,"subang jaya, jalan tpj 9",TERRACE FACTORY - INTERMEDIATE,"2,000",458
+subang jaya,2015,"subang jaya, jalan tpj 3",TERRACE FACTORY - INTERMEDIATE,"2,875",383
+subang jaya,2014,"subang jaya, jalan tpj 10",TERRACE FACTORY - INTERMEDIATE,"2,000",483
+subang jaya,2014,"subang jaya, jalan tpj 3",TERRACE FACTORY - INTERMEDIATE,"4,290",338
+subang jaya,2017,"subang jaya, jalan subang 7, latitude",SEMI-D FACTORY,"12,033",432
+subang jaya,2017,"subang jaya, /‰Ï¥ ‰Ï¥), jalan subang 3",DETACHED FACTORY,"4,144",314
+subang jaya,2017,"subang jaya, jalan subang 7/1 (twin park)",SEMI-D FACTORY,"9,225",460
+subang jaya,2016,"subang jaya, /‰Ï¥ ‰Ï¥), jalan subang 3",DETACHED FACTORY,"4,090",416
+subang jaya,2014,"subang jaya, /‰Ï¥ ‰Ï¥‰Ï¥), jalan subang 4",TERRACE FACTORY - END LOT,"3,151",317
+subang jaya,2016,"subang jaya, jalan subang 4, subang light industrial park",TERRACE FACTORY - INTERMEDIATE,"2,040",368
+subang jaya,2014,"subang jaya, jalan subang 4, taman industrial sungai penaga",TERRACE FACTORY - INTERMEDIATE,"2,070",338
+subang jaya,2013,"subang jaya, jalan subang 3, taman industri sungai penaga",MULTI-STOREY FACTORY,"1,539",351
+subang jaya,2016,"subang jaya, jalan industri usj 1/13",TERRACE FACTORY - END LOT,"2,002",549
+subang jaya,2016,"subang jaya, jalan industri usj 1/14",TERRACE FACTORY - CORNER LOT,"2,605",418
+subang jaya,2015,"subang jaya, jalan industri usj 1/13",TERRACE FACTORY - END LOT,"2,002",549
+subang jaya,2015,"subang jaya, jalan industri usj 1/13",TERRACE FACTORY,"2,002",400
+subang jaya,2014,"subang jaya, jalan industri usj 1/4",TERRACE FACTORY,"2,002",495
+subang jaya,2017,"subang jaya, jalan tp 7/4",TERRACE FACTORY,"3,000",463
+subang jaya,2017,"subang jaya, jalan tp 3/2",TERRACE FACTORY - CORNER LOT,"4,316",695
+subang jaya,2016,"subang jaya, jalan tp 7/6",TERRACE FACTORY - END LOT,"3,000",460
+subang jaya,2016,"subang jaya, jalan tp 7/4",TERRACE FACTORY - INTERMEDIATE,"3,000",500
+subang jaya,2016,"subang jaya, jalan tp 7/7",TERRACE FACTORY - INTERMEDIATE,"3,000",483
+subang jaya,2016,"subang jaya, jalan tp 5a",SEMI-D FACTORY,"9,420",476
+subang jaya,2015,"subang jaya, jalan tp 3/1",TERRACE FACTORY - INTERMEDIATE,"2,497",601
+subang jaya,2015,"subang jaya, jalan tp 7/8",TERRACE FACTORY - CORNER LOT,"3,584",251
+subang jaya,2017,"subang jaya, jalan ts 6/10",TERRACE FACTORY - INTERMEDIATE,"2,002",559
+subang jaya,2017,"subang jaya, jalan ts 6/2",TERRACE FACTORY - INTERMEDIATE,"1,604",468
+subang jaya,2017,"subang jaya, jalan ts 6/5",TERRACE FACTORY - INTERMEDIATE,"1,604",513
+subang jaya,2017,"subang jaya, jalan ts 6",TERRACE FACTORY - INTERMEDIATE,"1,604",393
+subang jaya,2017,"subang jaya, jalan ts 6/6",TERRACE FACTORY - INTERMEDIATE,"1,604",156
+subang jaya,2016,"subang jaya, jalan ts 6/7",TERRACE FACTORY - INTERMEDIATE,"1,604",405
+subang jaya,2016,"subang jaya, jalan ts 6/2",TERRACE FACTORY - INTERMEDIATE,"1,604",411
+subang jaya,2016,"subang jaya, jalan ts 6/9",SEMI-D FACTORY,"10,904",252
+subang jaya,2016,"subang jaya, jalan ts 6/5",TERRACE FACTORY - INTERMEDIATE,"1,604",481
+subang jaya,2016,"subang jaya, jalan ts 6/3",TERRACE FACTORY - INTERMEDIATE,"1,604",436
+subang jaya,2017,"subang jaya, jalan industri usj 1/11",TERRACE FACTORY,"2,002",500
+subang jaya,2017,"subang jaya, jalan industri 1/10",TERRACE FACTORY - INTERMEDIATE,"1,604",405
+subang jaya,2017,"subang jaya, jalan industri usj 1/11",TERRACE FACTORY - INTERMEDIATE,"2,002",549
+subang jaya,2017,"subang jaya, usj 1/1 @ psm 1",SEMI-D FACTORY,"7,201",309
+subang jaya,2017,"subang jaya, jalan usj 1/11",TERRACE FACTORY - INTERMEDIATE,"2,002",612
+subang jaya,2016,"subang jaya, jalan usj 1/4, taman perinduatrian usj 1",TERRACE FACTORY - INTERMEDIATE,"2,002",549
+subang jaya,2016,"subang jaya, jalan industri usj 1/14",TERRACE FACTORY - INTERMEDIATE,"2,002",598
+subang jaya,2016,"subang jaya, jalan industri usj 1/14",TERRACE FACTORY - INTERMEDIATE,"2,002",598
+subang jaya,2016,"subang jaya, jalan industri usj 1/13",TERRACE FACTORY - INTERMEDIATE,"2,680",410
+subang jaya,2016,"subang jaya, jalan industri 1/18",TERRACE FACTORY - INTERMEDIATE,"1,604",449
+kajang,2015,"kajang, jalan asa 8",TERRACE FACTORY - INTERMEDIATE,"3,003",260
+kajang,2015,"kajang, jalan asa 8",TERRACE FACTORY - INTERMEDIATE,"3,003",260
+kajang,2017,"kajang, jalan alfa impian 2",SEMI-D FACTORY,"18,169",319
+kajang,2017,"kajang, jalan alfa impian 2",SEMI-D FACTORY,"15,478",291
+kajang,2016,"kajang, jalan alfa impian 1",SEMI-D FACTORY,"9,989",250
+kajang,2015,"kajang, jalan 5",TERRACE FACTORY - INTERMEDIATE,"1,760",227
+kajang,2015,"kajang, jalan indah 1",TERRACE FACTORY - INTERMEDIATE,"2,400",408
+kajang,2015,"kajang, jalan indah",TERRACE FACTORY - CORNER LOT,"3,089",381
+kajang,2014,"kajang, jalan indah 1",TERRACE FACTORY - INTERMEDIATE,"2,400",354
+kajang,2013,"kajang, jalan indah",TERRACE FACTORY - INTERMEDIATE,"2,400",271
+kajang,2013,"kajang, jalan indah",TERRACE FACTORY - INTERMEDIATE,"2,400",271
+kajang,2016,"kajang, jalan kidamai 2/1, taman industri kidamai 2",SEMI-D FACTORY,"13,759",283
+kajang,2014,"kajang, jade industrial park",SEMI-D FACTORY,"13,754",327
+kajang,2014,"kajang, jade industrial park",SEMI-D FACTORY,"13,764",282
+kajang,2014,"kajang, jade industrial park",SEMI-D FACTORY,"13,759",327
+kajang,2014,"kajang, jade industrial park",SEMI-D FACTORY,"13,747",327
+kajang,2013,"kajang, jade industrial park",SEMI-D FACTORY,"10,060",447
+kajang,2016,"kajang, jalan mega 2/1",SEMI-D FACTORY,"19,267",187
+kajang,2016,"kajang, mega 2/1",SEMI-D FACTORY,"19,257",226
+kajang,2016,"kajang, jalan mega a",SEMI-D FACTORY,"8,697",276
+kajang,2016,"kajang, mega 2/1",SEMI-D FACTORY,"19,224",218
+kajang,2016,"kajang, jalan mega a",SEMI-D FACTORY,"8,694",276
+kajang,2015,"kajang, mega 2/1",SEMI-D FACTORY,"19,321",217
+kajang,2015,"kajang, mega 2/1",SEMI-D FACTORY,"19,246",208
+kajang,2017,"kajang, jalan seksyen 1/23",TERRACE FACTORY - INTERMEDIATE,"2,002",315
+kajang,2016,"kajang, jalan seksyen 1/25",TERRACE FACTORY - INTERMEDIATE,"2,002",295
+kajang,2016,"kajang, jalan seksyen 1/18",TERRACE FACTORY - INTERMEDIATE,"2,002",335
+kajang,2016,"kajang, jalan seksyen 1/21",TERRACE FACTORY - INTERMEDIATE,"2,000",270
+kajang,2016,"kajang, jalan seksyen 1/23",TERRACE FACTORY - INTERMEDIATE,"2,002",290
+kajang,2016,"kajang, jalan seksyen 1/21",TERRACE FACTORY - INTERMEDIATE,"2,002",307
+kajang,2015,"kajang, jalan seksyen 1/27",TERRACE FACTORY - INTERMEDIATE,"2,000",300
+kajang,2015,"kajang, jalan seksyen 1/27",TERRACE FACTORY - INTERMEDIATE,"2,002",300
+kajang,2015,"kajang, jalan seksyen 1/21",TERRACE FACTORY,"2,002",250
+kajang,2015,"kajang, jalan seksyen 1/19",TERRACE FACTORY - INTERMEDIATE,"2,000",340
+kajang,2017,"kajang, jalan sc 5/e",TERRACE FACTORY - INTERMEDIATE,"1,604",62
+kajang,2017,"kajang, jalan sc 4",TERRACE FACTORY - INTERMEDIATE,"3,003",300
+kajang,2017,"kajang, jalan sc 8",SEMI-D FACTORY,"10,710",327
+kajang,2017,"kajang, jalan sc 8",SEMI-D FACTORY,"10,710",327
+kajang,2017,"kajang, jalan sc 8",SEMI-D FACTORY,"12,368",235
+kajang,2017,"kajang, jalan sc 1",SEMI-D FACTORY,"8,396",345
+kajang,2017,"kajang, jalan sc/2",TERRACE FACTORY - INTERMEDIATE,"3,003",330
+kajang,2017,"kajang, jalan sc/ 2",TERRACE FACTORY - INTERMEDIATE,"3,003",346
+kajang,2017,"kajang, jalan sc 6",SEMI-D FACTORY,"10,645",440
+kajang,2017,"kajang, jalan sc 2",TERRACE FACTORY - INTERMEDIATE,"3,003",300
+kajang,2017,"kajang, jalan ba 2/1",SEMI-D FACTORY,"12,637",309
+kajang,2017,"kajang, jalan bukit angkat",SEMI-D FACTORY,"13,024",230
+kajang,2017,"kajang, jalan ba/10",TERRACE FACTORY - INTERMEDIATE,"2,002",639
+kajang,2017,"kajang, /‰Ï¥, kawasan perindustrian bukit angkat 3 (gb land",SEMI-D FACTORY,"16,543",342
+kajang,2016,"kajang, /‰Ï¥, kawasan perindustrian bukit angkat 3 (gb land",SEMI-D FACTORY,"16,559",317
+kajang,2016,"kajang, jalan ba 2/1",SEMI-D FACTORY,"13,283",286
+kajang,2016,"kajang, jalan ba /10",TERRACE FACTORY - INTERMEDIATE,"2,002",639
+kajang,2016,"kajang, /‰Ï¥, kawasan perindustrian bukit angkat 3 (gb land",SEMI-D FACTORY,"16,534",317
+kajang,2017,"kajang, jalan p2/11",TERRACE FACTORY - END LOT,"2,400",429
+kajang,2017,"kajang, jalan p2/9",TERRACE FACTORY - INTERMEDIATE,"1,600",311
+kajang,2017,"kajang, jalan p2/8",TERRACE FACTORY - INTERMEDIATE,"1,600",344
+kajang,2017,"kajang, jalan p2/16",TERRACE FACTORY - INTERMEDIATE,"2,400",363
+kajang,2017,"kajang, jalan p2/16",TERRACE FACTORY - INTERMEDIATE,"2,400",363
+kajang,2017,"kajang, jalan p2/5",TERRACE FACTORY - INTERMEDIATE,"2,560",301
+kajang,2017,"kajang, jalan p2/16",TERRACE FACTORY - INTERMEDIATE,"2,400",333
+kajang,2017,"kajang, jalan p4/8b",SEMI-D FACTORY,"8,435",439
+kajang,2017,"kajang, jalan p4/8a",SEMI-D FACTORY,"18,686",182
+kajang,2017,"kajang, jalan p 2/16",TERRACE FACTORY - INTERMEDIATE,"2,400",304
+ampang,2014,"ampang, jalan merdeka ria 2",TERRACE FACTORY,"1,873",854
+ampang,2014,"ampang, jalan merdeka ria 2",TERRACE FACTORY,"1,873",481
+ampang,2014,"ampang, jalan merdeka ria 1",TERRACE FACTORY,"2,002",789
+ampang,2014,"ampang, jalan merdeka ria 1",TERRACE FACTORY,"2,002",749
+ampang,2016,"ampang, mewah 3/5",TERRACE FACTORY,"2,400",244
+ampang,2016,"ampang, jalan mewah 3/5",TERRACE FACTORY,"2,400",417
+ampang,2015,"ampang, jalan pandan mewah 3/4",TERRACE FACTORY,"2,400",617
+ampang,2014,"ampang, mewah 3/3",TERRACE FACTORY,"2,400",583
+ampang,2014,"ampang, mewah 3/5",TERRACE FACTORY,"2,400",542
+ampang,2014,"ampang, jalan mewah 3/5",TERRACE FACTORY,"2,668",592
+ampang,2016,"ampang, jalan 6/14",SEMI-D FACTORY,"11,250",409
+ampang,2016,"ampang, jalan 6/11",SEMI-D FACTORY,"18,759",299
+ampang,2017,"ampang, jalan kencana 20",SEMI-D FACTORY,"3,600",417
+ampang,2017,"ampang, jalan kencana 18",SEMI-D FACTORY,"3,600",639
+ampang,2015,"ampang, jalan kencana 20",SEMI-D FACTORY,"3,600",472
+ampang,2015,"ampang, jalan kencana 20",SEMI-D FACTORY,"3,600",472
+ampang,2015,"ampang, jalan kencana 20",SEMI-D FACTORY,"7,364",462
+ampang,2015,"ampang, jalan kencana 20",SEMI-D FACTORY,"3,599",528
+ampang,2013,"ampang, jalan perdana 10/8",TERRACE FACTORY - CORNER LOT,"2,400","7,292"
+ampang,2016,"ampang, jalan 2",TERRACE FACTORY - INTERMEDIATE,"2,002",699
+ampang,2016,"ampang, jalan 2",TERRACE FACTORY - INTERMEDIATE,"2,002",749
+ampang,2015,"ampang, jalan 3",TERRACE FACTORY - INTERMEDIATE,"2,002",129
+ampang,2014,"ampang, jalan 4",DETACHED FACTORY,"7,266",434
+ampang,2014,"ampang, jalan 2",TERRACE FACTORY - INTERMEDIATE,"2,002",749
+ampang,2017,"ampang, kaws industrial kampung baru cina",DETACHED FACTORY,"12,056",368
+ampang,2017,"ampang, jalan 14",DETACHED FACTORY,"6,000",267
+ampang,2017,"ampang, jalan 11",DETACHED FACTORY,"6,738",364
+ampang,2015,"ampang, kampung baru cina",DETACHED FACTORY,"9,000",176
+ampang,2015,"ampang, jalan 11",DETACHED FACTORY,"7,535",398
+ampang,2015,"ampang, jalan 11",DETACHED FACTORY,"7,050",369
+ampang,2014,"ampang, jalan 11",DETACHED FACTORY,"7,266",454
+ampang,2013,"ampang, jalan 11",DETACHED FACTORY,"7,911",276
+ampang,2013,"ampang, jalan 12 kampung baru ampang tambahan",DETACHED FACTORY,"11,496",339
+ampang,2017,"ampang, jalan bukit permai utama 3",SEMI-D FACTORY,"7,840",485
+ampang,2017,"ampang, jalan bukit permai utama 3",SEMI-D FACTORY,"10,339",484
+ampang,2016,"ampang, jalan bukit permai utama 3",SEMI-D FACTORY,"7,200",514
+ampang,2015,"ampang, jalan bukit permai utama 2",TERRACE FACTORY - INTERMEDIATE,"2,497",621
+ampang,2015,"ampang, jalan bukit permai utama tiga",SEMI-D FACTORY,"17,487",286
+ampang,2014,"ampang, jalan bukit permai utama 3",SEMI-D FACTORY,"7,200",514
+ampang,2014,"ampang, jalan bukit permai utaman satu",SEMI-D FACTORY,"6,824",542
+ampang,2014,"ampang, jalan bukit permai utama 3",SEMI-D FACTORY,"7,200",521
+ampang,2014,"ampang, jalan bukit permai utama tiga",SEMI-D FACTORY,"7,200",521
+ampang,2014,"ampang, jalan bukit permai utaman satu",SEMI-D FACTORY,"6,663",468
+ampang,2017,"ampang, jalan lj 3",TERRACE FACTORY - INTERMEDIATE,"1,324",680
+ampang,2017,"ampang, &‰Ï¥‰Ï¥-‰Ï¥, jalan lj 5",TERRACE FACTORY - INTERMEDIATE,"1,539",498
+ampang,2017,"ampang, & ‰Ï¥‰Ï¥-‰Ï¥, jalan lj3",TERRACE FACTORY - INTERMEDIATE,"1,324",468
+ampang,2016,"ampang, jalan lj 3",TERRACE FACTORY - INTERMEDIATE,"1,324",680
+ampang,2015,"ampang, jalan lj 3",TERRACE FACTORY - INTERMEDIATE,"1,324",491
+ampang,2015,"ampang, & ‰Ï¥‰Ï¥-‰Ï¥, jalan lj 5",TERRACE FACTORY - INTERMEDIATE,"1,539",559
+ampang,2015,"ampang, & ‰Ï¥-‰Ï¥, jalan lj 5",TERRACE FACTORY - INTERMEDIATE,"1,539",559
+ampang,2014,"ampang, & ‰Ï¥‰Ï¥-‰Ï¥, jalan lj4",TERRACE FACTORY - INTERMEDIATE,"1,539",390
+ampang,2014,"ampang, & ‰Ï¥‰Ï¥-‰Ï¥, jalan lj 2",TERRACE FACTORY - INTERMEDIATE,"1,324",619
+ampang,2014,"ampang, jalan lj 2",TERRACE FACTORY - INTERMEDIATE,"1,324",589
+subang jaya,2017,"subang jaya, jalan ss 19/7, subang jaya",TERRACE FACTORY - CORNER LOT,"1,887",857
+subang jaya,2017,"subang jaya, jalan usj 7/3c",TERRACE FACTORY - INTERMEDIATE,"1,600",550
+subang jaya,2015,"subang jaya, jalan usj 7/3c",TERRACE FACTORY,"1,600",500
+subang jaya,2014,"subang jaya, usj 7/3a",TERRACE FACTORY,"1,600",613
+subang jaya,2014,"subang jaya, jalan usj 7/3",TERRACE FACTORY,"2,500",472
+subang jaya,2013,"subang jaya, jalan usj 7/3b",TERRACE FACTORY,"2,500",456
+subang jaya,2016,"subang jaya, jalan usj 19/4a",TERRACE FACTORY - INTERMEDIATE,"6,785",560
+subang jaya,2016,"subang jaya, jalan usj 19/2",TERRACE FACTORY,"1,600",519
+subang jaya,2014,"subang jaya, jalan usj 19/4a",TERRACE FACTORY - INTERMEDIATE,"3,000",693
+subang jaya,2014,"subang jaya, jalan usj 19/2",TERRACE FACTORY,"1,600",125
+subang jaya,2015,"subang jaya, jalan utama 1/6",TERRACE FACTORY,"2,002",300
+shah alam,2016,"shah alam, jalan bawang putih 24/34",SEMI-D FACTORY,"13,961",179
+shah alam,2016,"shah alam, jalan bawang putih 24/34",SEMI-D FACTORY,"19,267",176
+shah alam,2015,"shah alam, jalan 24/35",TERRACE FACTORY - CORNER LOT,"5,259",266
+shah alam,2014,"shah alam, jalan 24/35",TERRACE FACTORY,"3,360",193
+shah alam,2017,"shah alam, jalan marikh u5/174",TERRACE FACTORY - CORNER LOT,"4,026",435
+shah alam,2017,"shah alam, jalan marikh u5/175(dimensi kristal)",TERRACE FACTORY - INTERMEDIATE,"2,400",412
+shah alam,2014,"shah alam, jalan marikh u5/173(dimensi kristal)",TERRACE FACTORY - INTERMEDIATE,"2,400",381
+shah alam,2014,"shah alam, jalan marikh u5/173",TERRACE FACTORY - INTERMEDIATE,"2,400",492
+shah alam,2014,"shah alam, jalan marikh u5/176",TERRACE FACTORY - INTERMEDIATE,"1,604",334
+shah alam,2013,"shah alam, jalan marikh u5/175",TERRACE FACTORY - INTERMEDIATE,"2,400",375
+shah alam,2013,"shah alam, jalan marikh u5/177",TERRACE FACTORY - INTERMEDIATE,"2,960",338
+semenyih,2013,"semenyih, jalan 1, kawasan perindustrian lekas 18",SEMI-D FACTORY,"11,330",353
+semenyih,2013,"semenyih, jalan 1, kawasan perindustrian lekas 18",SEMI-D FACTORY,"11,309",363
+semenyih,2017,"semenyih, jalan besi 1/1",SEMI-D FACTORY,"10,163",196
+semenyih,2017,"semenyih, jalan besi 1/1",SEMI-D FACTORY,"10,604",198
+semenyih,2013,"semenyih, jalan besi 1/1",SEMI-D FACTORY,"11,396",205
+semenyih,2013,"semenyih, jalan besi 1/1",SEMI-D FACTORY,"10,977",192
+semenyih,2013,"semenyih, jalan besi 1/1",SEMI-D FACTORY,"16,284",179
+semenyih,2013,"semenyih, jalan besi 1/1",SEMI-D FACTORY,"10,584",205
+semenyih,2013,"semenyih, jalan besi 1/1",SEMI-D FACTORY,"21,371",175
+semenyih,2013,"semenyih, jalan besi 1/1",SEMI-D FACTORY,"14,845",204
+semenyih,2015,"semenyih, p/l 39357",SEMI-D FACTORY,"17,814",209
+semenyih,2014,"semenyih, p/l 39357",SEMI-D FACTORY,"17,750",210
+semenyih,2014,"semenyih, p/l 39357",SEMI-D FACTORY,"17,696",210
+semenyih,2014,"semenyih, jalan 2, kawasan perindustrian lekas 18",SEMI-D FACTORY,"18,912",200
+semenyih,2016,"semenyih, semenyih integrated 1",SEMI-D FACTORY,"13,822",200
+semenyih,2015,"semenyih, semenyih integrated 1",SEMI-D FACTORY,"14,800",216
+semenyih,2014,"semenyih, semenyih integrated",SEMI-D FACTORY,"13,818",137
+shah alam,2014,"shah alam, jalan 17/58a",TERRACE FACTORY,"2,074",216
+shah alam,2013,"shah alam, jalan spring 34/23",SEMI-D FACTORY,"25,898",212
+batu arang,2017,"batu arang, off jalan kuala selangor",SEMI-D FACTORY,"16,007",185
+batu arang,2017,"batu arang, off jalan kuala selangor",SEMI-D FACTORY,"16,007",200
+batu arang,2017,"batu arang, off jalan kuala selangor",SEMI-D FACTORY,"16,007",185
+batu arang,2016,"batu arang, off jalan kuala selangor",SEMI-D FACTORY,"16,007",185
+batu arang,2016,"batu arang, off jalan kuala selangor",SEMI-D FACTORY,"16,000",185
+batu arang,2016,"batu arang, kota puteri seksyen 6",SEMI-D FACTORY,"17,070",147
+batu arang,2016,"batu arang, off jalan kuala selangor",SEMI-D FACTORY,"24,406",125
+batu arang,2016,"batu arang, off jalan kuala selangor",SEMI-D FACTORY,"16,000",206
+batu arang,2016,"batu arang, off jalan kuala selangor",SEMI-D FACTORY,"34,450",101
+batu arang,2016,"batu arang, off jalan kuala selangor",SEMI-D FACTORY,"20,098",144
+balakong,2016,"balakong, jalan teras 1",SEMI-D FACTORY,"12,002",287
+balakong,2016,"balakong, jalan teras 3",SEMI-D FACTORY,"12,002",292
+balakong,2014,"balakong, jalan teras 1",SEMI-D FACTORY,"10,915",312
+balakong,2013,"balakong, jalan teras 1",SEMI-D FACTORY,"20,559",229
+balakong,2013,"balakong, jalan teras 2",SEMI-D FACTORY,"17,513",262
+balakong,2017,"balakong, jalan 6/2",TERRACE FACTORY - INTERMEDIATE,"1,600",449
+balakong,2017,"balakong, jalan 7/1",TERRACE FACTORY - INTERMEDIATE,"1,600",453
+balakong,2017,"balakong, jalan 7/1",TERRACE FACTORY,"1,600",497
+balakong,2017,"balakong, jalan 6/2",TERRACE FACTORY - INTERMEDIATE,"1,600",438
+balakong,2017,"balakong, jalan perusahaan 3, industri selesa jaya 2",SEMI-D FACTORY,"11,905",336
+balakong,2016,"balakong, jalan 5/1",TERRACE FACTORY,"4,000",225
+balakong,2016,"balakong, jalan 1/5",TERRACE FACTORY,"4,000",225
+balakong,2016,"balakong, jalan 2/2a",TERRACE FACTORY - INTERMEDIATE,"2,400",579
+balakong,2016,"balakong, jalan perusahaan 3, industri selesa jaya 2",SEMI-D FACTORY,"12,970",339
+balakong,2016,"balakong, jalan 7/5",TERRACE FACTORY,"2,000",375
+balakong,2016,"balakong, jalan kb 2/15",SEMI-D FACTORY,"14,025",298
+balakong,2014,"balakong, pec lot 5199",DETACHED FACTORY,"39,783",163
+balakong,2017,"balakong, jalan p1 balakong",TERRACE FACTORY,"2,799",429
+balakong,2017,"balakong, jalan p1",TERRACE FACTORY,"2,799",429
+balakong,2017,"balakong, jalan p1",TERRACE FACTORY,"2,799",429
+balakong,2017,"balakong, jalan kpb 8",SEMI-D FACTORY,"19,687",203
+balakong,2016,"balakong, jalan p8 perdana 8",SEMI-D FACTORY,"7,944",611
+balakong,2016,"balakong, off jalan balakong",DETACHED FACTORY,"39,041",190
+balakong,2017,"balakong, jalan taming 6",TERRACE FACTORY - INTERMEDIATE,"2,400",563
+balakong,2017,"balakong, jalan taming p/1",SEMI-D FACTORY,"7,804",397
+balakong,2017,"balakong, jalan taming 6",TERRACE FACTORY - CORNER LOT,"3,487",373
+balakong,2017,"balakong, jalan taming 5",TERRACE FACTORY - INTERMEDIATE,"2,400",553
+balakong,2017,"balakong, jalan taming 5",TERRACE FACTORY - END LOT,"2,400",542
+balakong,2017,"balakong, jalan taming 7",TERRACE FACTORY - INTERMEDIATE,"2,400",575
+balakong,2017,"balakong, jalan taming 7",TERRACE FACTORY - INTERMEDIATE,"2,400",575
+balakong,2017,"balakong, taming p/1",SEMI-D FACTORY,"7,761",354
+balakong,2016,"balakong, jalan taming 7",TERRACE FACTORY,"2,160",477
+balakong,2016,"balakong, jalan tanming 8",TERRACE FACTORY - INTERMEDIATE,"2,000",650
+beranang,2014,"beranang, jalan kasuma 2/1, bandar tasik kesuma",DETACHED FACTORY,"56,628",114
+balakong,2017,"balakong, jalan bj2t 2/2",SEMI-D FACTORY,"14,330",161
+balakong,2017,"balakong, jalan bj 2-7",SEMI-D FACTORY,"8,920",314
+balakong,2017,"balakong, jalan one industrial park 2, one industrial",SEMI-D FACTORY,"7,675",408
+balakong,2017,"balakong, jalan one industrial park 2",SEMI-D FACTORY,"2,422","1,349"
+balakong,2017,"balakong, jalan one industrial park 2, one industrial",SEMI-D FACTORY,"9,182",316
+balakong,2016,"balakong, jalan balakong jaya 6",TERRACE FACTORY - INTERMEDIATE,"2,002",544
+balakong,2016,"balakong, jalan perindustrian balakong jaya 2",SEMI-D FACTORY,"10,818",287
+balakong,2016,"balakong, jalan balakong jaya 6",TERRACE FACTORY - INTERMEDIATE,"2,002",524
+balakong,2016,"balakong, jalan balakong jaya 6",TERRACE FACTORY - INTERMEDIATE,"2,002",497
+beranang,2014,"beranang, jalan perindustrian mahkota 7",DETACHED FACTORY,"24,391",287
+beranang,2014,"beranang, jalan perindustrian mahkota 3/e",TERRACE FACTORY - INTERMEDIATE,"1,604",120
+beranang,2014,"beranang, jalan perindustrian mahkota 3/e",TERRACE FACTORY - INTERMEDIATE,"1,604",112
+beranang,2016,"beranang, jl perusahaan 3",DETACHED FACTORY,"87,120",120
+beranang,2016,"beranang, jl perusahaan 4",DETACHED FACTORY,"91,476",87
+beranang,2014,"beranang, jalan perusahaan 1",DETACHED FACTORY,"204,732",43
+beranang,2014,"beranang, jalan perusahaan 1",DETACHED FACTORY,"108,900",70
+beranang,2013,"beranang, jalan perusahaan 2",DETACHED FACTORY,"196,020",33
+shah alam,2013,"shah alam, jalan utarid u5/29",TERRACE FACTORY - INTERMEDIATE,"3,003",366
+shah alam,2016,"shah alam, jalan bukit kemuning",SEMI-D FACTORY,"8,525",223
+shah alam,2014,"shah alam, jalan bukit kemuning",SEMI-D FACTORY,"8,525",252
+shah alam,2014,"shah alam, batu 6 jalan bukit kemuning",SEMI-D FACTORY,"11,356",220
+shah alam,2015,"shah alam, jalan su 8a",TERRACE FACTORY,"1,485",337
+shah alam,2014,"shah alam, jalan su 8",DETACHED FACTORY,"42,410",170
+shah alam,2017,"shah alam, batu 7/2 jalan bukit kemuning p/l 1921",TERRACE FACTORY - INTERMEDIATE,"2,077",144
+shah alam,2016,"shah alam, jalan raja lumu 35/132 (p/l 1234)",SEMI-D FACTORY,"12,077",282
+shah alam,2016,"shah alam, jalan bukit kemuning",DETACHED FACTORY,"31,635",110
+shah alam,2016,"shah alam, jalan 5 off jalan bukit rimau",TERRACE FACTORY - INTERMEDIATE,"6,631",102
+shah alam,2016,"shah alam, jalan 5 off jalan bukit rimau",TERRACE FACTORY - END LOT,"6,631",102
+shah alam,2014,"shah alam, jalan 5",TERRACE FACTORY - END LOT,"6,631",360
+shah alam,2015,"shah alam, jalan 32/2",TERRACE FACTORY - INTERMEDIATE,"2,799",259
+shah alam,2015,"shah alam, jalan 32/2",TERRACE FACTORY - INTERMEDIATE,"2,799",259
+shah alam,2015,"shah alam, jalan 32/3",TERRACE FACTORY - CORNER LOT,"3,100",290
+shah alam,2014,"shah alam, jalan 32/4 (tj)",TERRACE FACTORY - CORNER LOT,"3,057",294
+semenyih,2016,"semenyih, jalan ria 2",SEMI-D FACTORY,"14,583",178
+semenyih,2016,"semenyih, jalan ria 2",SEMI-D FACTORY,"15,517",168
+semenyih,2015,"semenyih, jalan semenyih kajang",SEMI-D FACTORY,"16,074",156
+semenyih,2014,"semenyih, jalan ria 2",SEMI-D FACTORY,"14,583",171
+semenyih,2014,"semenyih, jalan ria 2",SEMI-D FACTORY,"15,517",161
+semenyih,2017,"semenyih, crest hill industrial park 2",SEMI-D FACTORY,"12,094",165
+semenyih,2015,"semenyih, crest hill industrial park 2",SEMI-D FACTORY,"11,933",236
+semenyih,2014,"semenyih, crest hill industrial park 2",SEMI-D FACTORY,"12,258",230
+semenyih,2014,"semenyih, crest hill industrial park 2",SEMI-D FACTORY,"16,808",255
+semenyih,2014,"semenyih, crest hill industrial park 2",SEMI-D FACTORY,"11,895",237
+semenyih,2015,"semenyih, jalan 1",SEMI-D FACTORY,"11,298",414
+semenyih,2015,"semenyih, jalan 1",SEMI-D FACTORY,"11,287",425
+semenyih,2015,"semenyih, jalan 2",SEMI-D FACTORY,"14,347",202
+semenyih,2015,"semenyih, jalan 1",SEMI-D FACTORY,"11,320",380
+semenyih,2015,"semenyih, jalan kajang jaya 1",DETACHED FACTORY,"24,294",337
+semenyih,2014,"semenyih, jalan kajang jaya 1",SEMI-D FACTORY,"21,119",338
+semenyih,2014,"semenyih, jalan kajang jaya 1",SEMI-D FACTORY,"18,126",372
+semenyih,2014,"semenyih, jalan kajang jaya",SEMI-D FACTORY,"23,842",312
+semenyih,2013,"semenyih, jalan kajang jaya",SEMI-D FACTORY,"23,056",287
+semenyih,2013,"semenyih, jalan kajang jaya",SEMI-D FACTORY,"22,141",294
+semenyih,2016,"semenyih, jalan ria 4",TERRACE FACTORY - INTERMEDIATE,"2,000",450
+semenyih,2016,"semenyih, jalan ria 4",TERRACE FACTORY - INTERMEDIATE,"2,000",400
+semenyih,2013,"semenyih, jalan ria 4",TERRACE FACTORY - INTERMEDIATE,"2,000",413
+semenyih,2013,"semenyih, jalan ria 4",TERRACE FACTORY - INTERMEDIATE,"2,000",413
+semenyih,2013,"semenyih, jalan ria 4",TERRACE FACTORY - INTERMEDIATE,"2,000",413
+semenyih,2013,"semenyih, jalan ria 4",TERRACE FACTORY - INTERMEDIATE,"2,000",413
+semenyih,2016,"semenyih, jalan semenyih bangi lama",SEMI-D FACTORY,"22,978",239
+semenyih,2015,"semenyih, jalan 1, kawasan perindustrian lekas 18",SEMI-D FACTORY,"11,277",355
+semenyih,2015,"semenyih, jalan semenyih bangi lama",SEMI-D FACTORY,"19,947",237
+semenyih,2014,"semenyih, jalan semenyih bangi lama",SEMI-D FACTORY,"19,052",258
+semenyih,2014,"semenyih, jalan semenyih bangi lama",SEMI-D FACTORY,"19,669",262
+semenyih,2014,"semenyih, jalan semenyih bangi lama",SEMI-D FACTORY,"17,180",257
+semenyih,2013,"semenyih, jalan semenyih bangi lama",SEMI-D FACTORY,"34,434",182
+shah alam,2015,"shah alam, jalan omboh satu 34/1a",SEMI-D FACTORY,"10,208",88
+shah alam,2016,"shah alam, jalan pasaran 23/5",DETACHED FACTORY,"38,352",184
+shah alam,2014,"shah alam, jalan lira u3/41/jalan 1a",SEMI-D FACTORY,"9,698",342
+shah alam,2015,"shah alam, jalan keluli 7/109 seksyen 7 shah alam",TERRACE FACTORY - INTERMEDIATE,"1,970",954
+shah alam,2015,"shah alam, jalan keluli 7/109 seksyen 7 shah alam",TERRACE FACTORY - INTERMEDIATE,"1,970",990
+shah alam,2014,"shah alam, jalan lira u3/41 off jalan",SEMI-D FACTORY,"9,558",366
+shah alam,2013,"shah alam, jalan lira u3/41",SEMI-D FACTORY,"9,634",363
+shah alam,2014,"shah alam, jalan keluli 7/109 seksyen 7 shah alam",TERRACE FACTORY - INTERMEDIATE,"1,970",868
+shah alam,2014,"shah alam, jalan keluli 7/109",TERRACE FACTORY - CORNER LOT,"2,982","1,157"
+shah alam,2014,"shah alam, jalan keluli 7/109 seksyen 7 shah alam",TERRACE FACTORY - INTERMEDIATE,"1,970","1,015"
+shah alam,2014,"shah alam, jalan astana 1a",SEMI-D FACTORY,"7,922",238
+shah alam,2014,"shah alam, jalan keluli 7/109 seksyen 7 shah alam",TERRACE FACTORY - CORNER LOT,"1,960",816
+shah alam,2013,"shah alam, jalan keluli 7/109 seksyen 7 shah alam",TERRACE FACTORY - CORNER LOT,"3,100","1,065"
+shah alam,2016,"shah alam, ragum 15/17",DETACHED FACTORY,"43,475",235
+shah alam,2016,"shah alam, jalan anggerek mokara 31/59",TERRACE FACTORY - CORNER LOT,"5,909",296
+shah alam,2016,"shah alam, jalan anggerik mokara 31/51",TERRACE FACTORY - INTERMEDIATE,"3,897",449
+shah alam,2016,"shah alam, jalan anggerik makora 31/60",TERRACE FACTORY - INTERMEDIATE,"3,251",424
+shah alam,2015,"shah alam, jalan anggerik mokara 31/60",TERRACE FACTORY - INTERMEDIATE,"3,251",400
+shah alam,2015,"shah alam, jalan anggerik mokara 31/58",TERRACE FACTORY - INTERMEDIATE,"4,198",386
+shah alam,2015,"shah alam, jalan anggerik mokara 31/62",SEMI-D FACTORY,"10,204",319
+shah alam,2014,"shah alam, jalan anggerik mokara 13/62",TERRACE FACTORY - INTERMEDIATE,"3,897",398
+shah alam,2014,"shah alam, jalan anggerik mokara 31/62",SEMI-D FACTORY,"10,204",343
+shah alam,2017,"shah alam, jalan sepadu 25/123a",SEMI-D FACTORY,"16,687",309
+shah alam,2017,"shah alam, jalan sepadu 25/123a",SEMI-D FACTORY,"9,467",518
+shah alam,2016,"shah alam, jalan sepadu 25/123",DETACHED FACTORY,"39,191",185
+shah alam,2016,"shah alam, jalan sepadu 25/123a",SEMI-D FACTORY,"8,700",557
+shah alam,2015,"shah alam, jalan sepadu 25/123a",SEMI-D FACTORY,"11,214",415
+shah alam,2015,"shah alam, jalan pelubang 32/200",DETACHED FACTORY,"14,660",411
+shah alam,2015,"shah alam, jalan sepadu 25/123a",SEMI-D FACTORY,"8,700",454
+shah alam,2014,"shah alam, jalan sepadu 25/123a",SEMI-D FACTORY,"8,951",509
+shah alam,2017,"shah alam, jalan 15/23",SEMI-D FACTORY,"10,637",451
+shah alam,2017,"shah alam, jalan 15/23",SEMI-D FACTORY,"10,637",451
+shah alam,2016,"shah alam, jalan 15/23",SEMI-D FACTORY,"10,637",423
+shah alam,2016,"shah alam, jalan 15/22",SEMI-D FACTORY,"11,997",400
+shah alam,2016,"shah alam, jalan 15/22",SEMI-D FACTORY,"10,677",468
+shah alam,2016,"shah alam, jalan 15/23",SEMI-D FACTORY,"10,637",451
+shah alam,2015,"shah alam, jalan 15/22",SEMI-D FACTORY,"10,637",333
+shah alam,2015,"shah alam, jalan 15/22",SEMI-D FACTORY,"11,329",415
+shah alam,2014,"shah alam, jalan 15/22",SEMI-D FACTORY,"13,448",602
+shah alam,2013,"shah alam, jalan 15/22",SEMI-D FACTORY,"8,858",570
