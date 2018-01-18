@@ -15,7 +15,7 @@ $.get(path, function(data) {
     var origins = [];
 
     for (var i = 1; i < geoInfoObjArr.length; i++) {
-    	await new Promise(resolve => setTimeout(resolve, Math.random() * 1000));
+    	// await new Promise(resolve => setTimeout(resolve, Math.random() * 1000));
     	indices.push(geoInfoObjArr[i][0]);
     	destinations.push(dest);
     	origins.push(new google.maps.LatLng(geoInfoObjArr[i][2], geoInfoObjArr[i][3])); 
@@ -24,16 +24,15 @@ $.get(path, function(data) {
     calDist(origins, destinations);
 
     function calDist(originArr, destArr) {
+        var service = new google.maps.DistanceMatrixService;
     	service.getDistanceMatrix(
     	{
     		origins: originArr,
     		destinations: destArr,
     		travelMode: 'DRIVING',
-    		transitOptions: TransitOptions,
-    		drivingOptions: DrivingOptions,
-    		unitSystem: UnitSystem,
-    		avoidHighways: Boolean,
-    		avoidTolls: Boolean
+    		unitSystem: google.maps.UnitSystem.METRIC,
+    		avoidHighways: false,
+    		avoidTolls: false
     	}, callback);
     }
 
