@@ -11,32 +11,42 @@ $.get(path, function(data) {
 
     var dest = 'Kuala Lumpur';
    	var indices = [];
-    var destinations = [];
     var origins = [];
+    var latitude = '';
+    var longtitude = '';
+    var geocode = {};
 
-    for (var i = 1; i < geoInfoObjArr.length; i++) {
+    // for (var i = 1; i < geoInfoObjArr.length - 1; i++) {
+    for (var i = 1; i < 10; i++) {
     	// await new Promise(resolve => setTimeout(resolve, Math.random() * 1000));
     	indices.push(geoInfoObjArr[i][0]);
-    	destinations.push(dest);
-    	origins.push(new google.maps.LatLng(geoInfoObjArr[i][2], geoInfoObjArr[i][3])); 
+        latitude = parseFloat(geoInfoObjArr[i][2]);
+        longtitude = parseFloat(geoInfoObjArr[i][3]);
+        // geocode = {lat: latitude, lng: longtitude};
+        geocode['lat'] = latitude;
+        geocode['lng'] = longtitude;
+        console.log(geocode);
+        origins.push(geocode);
     }
+    calDist(origins);
 
-    calDist(origins, destinations);
-
-    function calDist(originArr, destArr) {
-        var service = new google.maps.DistanceMatrixService;
-    	service.getDistanceMatrix(
-    	{
-    		origins: originArr,
-    		destinations: destArr,
-    		travelMode: 'DRIVING',
-    		unitSystem: google.maps.UnitSystem.METRIC,
-    		avoidHighways: false,
-    		avoidTolls: false
-    	}, callback);
+    function calDist(originObj) {
+        var service = new google.maps.DistanceMatrixService();
+        x = [{lat: 3.1449836, lng: 101.7594994}, {lat: 3.0479988, lng: 101.5989691}];
+        console.log(x);
+        console.log(originObj);
+        service.getDistanceMatrix({
+            origins: originObj,
+            destinations: [dest],
+            travelMode: 'DRIVING',
+            unitSystem: google.maps.UnitSystem.METRIC,
+            avoidHighways: false,
+            avoidTolls: false
+        }, callback)
     }
 
     function callback(response, status) {
+        console.log(response);
     	if (status == 'OK') {
     		var origins = response.originAddresses;
     		var destinations = response.destinationAddresses;
@@ -47,9 +57,7 @@ $.get(path, function(data) {
     				var element = results[j];
     				var distance = element.distance.text;
     				var duration = element.duration.text;
-    				console.log(indices[i]);
-    				console.log(distance);
-    				console.log(duration);
+    				console.log(indices[i] + ',' + distance + ',' + duration);
     				var from = origins[i];
     				var to = destinations[j];
     			}
